@@ -4,3 +4,5 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
+main	/Users/sharemy/Documents/GitHub/yuanchaoxu6.github.io-master/_data/navigation.yml	/^main:$/;"	function	line:2
+url	/Users/sharemy/Documents/GitHub/yuanchaoxu6.github.io-master/_data/navigation.yml	/^    url: \/publications\/$/;"	function	line:6
