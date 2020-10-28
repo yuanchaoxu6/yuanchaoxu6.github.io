@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+* **\[HPCA 2021\]** **<font color="#0081ff"> Hardware-Based Address-Centric Acceleration of Key-Value Store</font>**; Chencheng Ye, **Yuanchao Xu**, Xipeng Shen, Xiaofei Liao, Hai Jin and Yan Solihin; International Symposium on High-Performance Computer Architecture (**HPCA**), 2021. to appear.
 
 
 * **\[ISCA 2020\]** **<font color="#0081ff"> Hardware-Based Domain Virtualization for Intra-Process Isolation of Persistent Memory Objects</font>**; **Yuanchao Xu**, Chencheng Ye, Yan Solihin, and Xipeng Shen; International Symposium on Computer Architecture (**ISCA**), 2020. <br> [<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/isca20.pdf)[<font color="#0081ff">[Slides]</font>](http://yuanchaoxu6.github.io/files/ISCA2020MPKVirtualization.pdf)
