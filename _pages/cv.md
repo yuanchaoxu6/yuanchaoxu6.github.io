@@ -14,7 +14,7 @@ Computer Architecture, Security, Persistent Memory, Performance Modeling, Schedu
 
 Education
 ======
-* North Carolina State University, Raleigh, North Carolina
+* North Carolina State University, Raleigh, North Carolina <br>
   Ph.D, Computer Science, Aug. 18 - present
   Advisor: Dr. Xipeng Shen and Dr. Yan Solihin
 * B.S. in GitHub, GitHub University, 2012
