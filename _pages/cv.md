@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+Most recent [<font color="#0081ff">Resume</font>](http://yuanchaoxu6.github.io/files/CV_Yuanchao_Xu.pdf)
 
 Interests
 ======
@@ -15,12 +16,17 @@ Computer Architecture, Security, Persistent Memory, Performance Modeling, Schedu
 Education
 ======
 * North Carolina State University, Raleigh, North Carolina <br>
-  Ph.D, Computer Science, Aug. 18 - present
-  Advisor: Dr. Xipeng Shen and Dr. Yan Solihin
-* M.E. in GitHub, GitHub University, 2012
-* B.E. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+  Ph.D, Computer Science, Aug. 2018 - present <br>
+  Advisor: [<font color="#0081ff">Dr. Xipeng Shen</font>](https://people.engr.ncsu.edu/xshen5/) and [<font color="#0081ff">Dr. Yan Solihin</font>](https://sites.google.com/view/arpers)
+* Tsinghua University, Beijing, China <br>
+  M.E., Computer Science, Aug. 2015 - Jul. 2018 <br>
+  Advisor: Dr. Wei Xue
+* Jilin University, Jilin, China <br>
+  B.E., Software Engineering Aug. 2011 - Jul. 2015 <br>
+
 
 Experience
 ======
-* Oak Ridge National Laboratory
+* Oak Ridge National Laboratory <br>
+  Research Assistant, May 2019 - Aug. 2019
+  Mentor: [<font color="#0081ff">Dr. Mehmet Esat Belviranli </font>](https://mehmet.belviranli.com/).
