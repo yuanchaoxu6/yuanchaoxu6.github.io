@@ -17,8 +17,8 @@ Education
 * North Carolina State University, Raleigh, North Carolina <br>
   Ph.D, Computer Science, Aug. 18 - present
   Advisor: Dr. Xipeng Shen and Dr. Yan Solihin
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
+* M.E. in GitHub, GitHub University, 2012
+* B.E. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Experience
