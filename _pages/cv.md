@@ -20,9 +20,10 @@ Education
   Advisor: [<font color="#0081ff">Dr. Xipeng Shen</font>](https://people.engr.ncsu.edu/xshen5/) and [<font color="#0081ff">Dr. Yan Solihin</font>](https://sites.google.com/view/arpers)
 * Tsinghua University, Beijing, China <br>
   M.E., Computer Science, Aug. 2015 - Jul. 2018 <br>
-  Advisor: Dr. Wei Xue
+  Advisor: [<font color="#0081ff">Dr. Wei Xue</font>](http://www.cs.tsinghua.edu.cn/publish/csen/4623/2010/20101224235122610366982/20101224235122610366982_.html)
 * Jilin University, Jilin, China <br>
   B.E., Software Engineering Aug. 2011 - Jul. 2015 <br>
+
 
 
 Experience
