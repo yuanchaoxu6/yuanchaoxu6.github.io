@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-* **\[ISCA 2021\]** **<font color="#0081ff"> Supporting Legacy Libraries on Non-Volatile Memory: A User-Transparent Approach</font>**; Chencheng Ye, **Yuanchao Xu**, Xipeng Shen, Xiaofei Liao, Hai Jin and Yan Solihin; International Symposium on High-Performance Computer Architecture (**HPCA**), 2021. to appear.
+* **\[ISCA 2021\]** **<font color="#0081ff"> Supporting Legacy Libraries on Non-Volatile Memory: A User-Transparent Approach</font>**; Chencheng Ye, **Yuanchao Xu**, Xipeng Shen, Xiaofei Liao, Hai Jin and Yan Solihin; International Symposium on Computer Architecture (**ISCA**), 2021. to appear.
 
 
 * **\[HPCA 2021\]** **<font color="#0081ff"> Hardware-Based Address-Centric Acceleration of Key-Value Store</font>**; Chencheng Ye, **Yuanchao Xu**, Xipeng Shen, Xiaofei Liao, Hai Jin and Yan Solihin; International Symposium on High-Performance Computer Architecture (**HPCA**), 2021. to appear.
