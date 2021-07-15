@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+
+* **\[MICRO 2021\]** **<font color="#0081ff"> PCCS: Processor-Centric Contention Slowdown Model for Heterogeneous System-on-chips</font>**; **Yuanchao Xu**, Mehmet Esat Belviranli, Xipeng Shen, andJeffrey Vetter; IEEE/ACM International Symposium on Microarchitecture (**MICRO**), 2021. to appear.
+
 * **\[ISCA 2021\]** **<font color="#0081ff"> Supporting Legacy Libraries on Non-Volatile Memory: A User-Transparent Approach</font>**; Chencheng Ye, **Yuanchao Xu**, Xipeng Shen, Xiaofei Liao, Hai Jin and Yan Solihin; International Symposium on Computer Architecture (**ISCA**), 2021. to appear.
 
 
