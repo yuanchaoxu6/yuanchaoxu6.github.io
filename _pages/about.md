@@ -15,9 +15,6 @@ News
 ======
 
 * 2021/07/14: Our paper “<font color="#0081ff">PCCS: Processor-Centric Contention Slowdown Model for Heterogeneous System-on-chips</font>” was accepted by MICRO 2021.
-
-
-
 * 2021/03/04: Our paper “<font color="#0081ff">Supporting Legacy Libraries on Non-Volatile Memory: A User-Transparent Approach</font>” was accepted by ISCA 2021.
 * 2020/10/28: Our paper “<font color="#0081ff">Hardware-Based Address-Centric Acceleration of Key-Value Store</font>” was accepted by HPCA 2021.
 * 2020/03/08: Our paper “[<font color="#0081ff"> Hardware-Based Domain Virtualization for Intra-Process Isolation of Persistent Memory Objects</font>](http://yuanchaoxu6.github.io/files/isca20.pdf)” was accepted by ISCA 2020.
