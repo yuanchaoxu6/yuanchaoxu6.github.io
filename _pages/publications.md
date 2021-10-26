@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-* **\[OOPSLA 2021\]** **<font color="#0081ff"> UDF to SQL Translation through Compositional Lazy Inductive Synthesis</font>**; Guoqiang Zhang, **Yuanchao Xu**, Xipeng Shen, and I\c{s}{\i}l Dillig; Object-oriented Programming, Systems, Languages, and Applications (**OOPSLA**), 2021. <br> [<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/OOPSLA2021.pdf)
+* **\[OOPSLA 2021\]** **<font color="#0081ff"> UDF to SQL Translation through Compositional Lazy Inductive Synthesis</font>**; Guoqiang Zhang, **Yuanchao Xu**, Xipeng Shen, and Işil Dillig; Object-oriented Programming, Systems, Languages, and Applications (**OOPSLA**), 2021. <br> [<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/OOPSLA2021.pdf)
 
 * **\[MICRO 2021\]** **<font color="#0081ff"> PCCS: Processor-Centric Contention Slowdown Model for Heterogeneous System-on-chips</font>**; **Yuanchao Xu**, Mehmet Esat Belviranli, Xipeng Shen, and Jeffrey Vetter; International Symposium on Microarchitecture (**MICRO**), 2021. <br> [<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/MICRO2021.pdf)
 
