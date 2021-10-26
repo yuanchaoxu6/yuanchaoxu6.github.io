@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+* **\[HPCA 2022\]** **<font color="#0081ff"> Temporal Exposure Reduction Protection for Persistent Memory </font>**; **Yuanchao Xu**, Chencheng Ye, Xipeng Shen, and Yan Solihin; International Symposium on High-Performance Computer Architecture (**HPCA**), 2022. to appear.
 
 * **\[OOPSLA 2021\]** **<font color="#0081ff"> UDF to SQL Translation through Compositional Lazy Inductive Synthesis</font>**; Guoqiang Zhang, **Yuanchao Xu**, Xipeng Shen, and Işil Dillig; Object-oriented Programming, Systems, Languages, and Applications (**OOPSLA**), 2021. <br> [<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/OOPSLA2021.pdf)
 
