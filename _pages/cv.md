@@ -11,7 +11,7 @@ Most recent [<font color="#0081ff">Resume</font>](http://yuanchaoxu6.github.io/f
 
 Interests
 ======
-Computer Architecture, Security, Persistent Memory, Performance Modeling, Scheduling
+Computer Architecture, Security, Persistent Memory, Performance Modeling, SoC Design
 
 Education
 ======
