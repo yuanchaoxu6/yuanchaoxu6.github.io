@@ -32,7 +32,7 @@ Experience
   Mentor: [<font color="#0081ff">Dr. David E. Culler </font>](http://people.eecs.berkeley.edu/~culler/).
 * Google <br>
   Research Intern, May 2021 - Aug. 2021
-  Mentor: [<font color="#0081ff">Dr. David E. Culler </font>](http://people.eecs.berkeley.edu/~culler/).
+  Mentor: [<font color="#0081ff">Dr. David E. Culler </font>](http://people.eecs.berkeley.edu/~culler/) and [<font color="#0081ff">Dr. Ravi Rajwar </font>](http://pages.cs.wisc.edu/~rajwar/)
 * Oak Ridge National Laboratory <br>
   Research Assistant, May 2019 - Aug. 2019
   Mentor: [<font color="#0081ff">Dr. Mehmet Esat Belviranli </font>](https://mehmet.belviranli.com/).
