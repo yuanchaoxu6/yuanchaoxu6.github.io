@@ -13,7 +13,7 @@ My name is Yuanchao Xu, a fourth-year PhD student in the Department of Computer 
 
 News
 ======
-
+* 2021/03/02: Our paper “[<font color="#0081ff">FFCCD: Fence-Free Crash-Consistent Concurrent Defragmentation for Persistent Memory</font>]" was accepted by ISCA 2022.
 * 2021/10/28: Our paper “[<font color="#0081ff">Temporal Exposure Reduction Protection for Persistent Memory</font>](http://yuanchaoxu6.github.io/files/HPCA22.pdf)” was accepted by HPCA 2022.
 * 2021/09/02: Our paper “[<font color="#0081ff">UDF to SQL Translation through Compositional Lazy Inductive Synthesis</font>](http://yuanchaoxu6.github.io/files/OOPSLA2021.pdf)” was accepted by OOPSLA 2021.
 * 2021/07/14: Our paper “[<font color="#0081ff">PCCS: Processor-Centric Contention Slowdown Model for Heterogeneous System-on-chips</font>](http://yuanchaoxu6.github.io/files/MICRO2021.pdf)” was accepted by MICRO 2021.
