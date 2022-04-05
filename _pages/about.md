@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Yuanchao Xu, a fourth-year PhD student in the Department of Computer Science, North Carolina State University (NCSU), advised by [<font color="#0081ff">Dr. Xipeng Shen</font>](https://people.engr.ncsu.edu/xshen5/) and [<font color="#0081ff">Dr. Yan Solihin</font>](https://sites.google.com/view/arpers). My research interests are in computer architecture, hardware security and performance modeling. Before joining NCSU, I received my Master degree and Bachelor degree from Tsinghua University and Jilin University.
+My name is Yuanchao Xu, a fourth-year PhD student in the Department of Computer Science, North Carolina State University (NCSU), advised by [<font color="#0081ff">Dr. Xipeng Shen</font>](https://people.engr.ncsu.edu/xshen5/) and [<font color="#0081ff">Dr. Yan Solihin</font>](https://sites.google.com/view/arpers). I am also a student researcher in [<font color="#0081ff">System Research Group</font>](https://cloud.google.com/blog/topics/systems/google-creates-new-systems-research-group) at Google, working with [<font color="#0081ff">Dr. Dr. David Culler</font>](http://people.eecs.berkeley.edu/~culler/). My research interests are in computer architecture, hardware security and systems. Before joining NCSU, I received my Master degree and Bachelor degree from Tsinghua University and Jilin University.
 
 
 News
