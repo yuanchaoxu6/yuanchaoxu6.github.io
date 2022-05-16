@@ -9,7 +9,7 @@ author_profile: true
 The 49th International Symposium on Computer Architecture (**ISCA**), 2022. <br>
 to appear.
 
-* **\[HPCA 2022\]** **<font color="#0081ff"> Temporal Exposure Reduction Protection for Persistent Memory </font>**; <br>
+* **\[HPCA 2022\]** **<font color="#0081ff"> Temporal Exposure Reduction Protection for Persistent Memory</font>**; <br>
 **Yuanchao Xu**, Chencheng Ye, Xipeng Shen, and Yan Solihin; <br>
 The 28th International Symposium on High-Performance Computer Architecture (**HPCA**), 2022. <br>
 [<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/HPCA22.pdf).
