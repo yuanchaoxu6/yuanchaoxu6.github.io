@@ -4,17 +4,25 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* **\[ISCA 2022\]** **<font color="#0081ff"> FFCCD: Fence-Free Crash-Consistent Concurrent Defragmentation for Persistent Memory</font>**;  **Yuanchao Xu**, Chencheng Ye, Yan Solihin, Xipeng Shen;  The 49th International Symposium on Computer Architecture (**ISCA**), 2022. <br> to appear. dsfafsd
+* **\[ISCA 2022\]** **<font color="#0081ff"> FFCCD: Fence-Free Crash-Consistent Concurrent Defragmentation for Persistent Memory</font>**; <br>
+**Yuanchao Xu**, Chencheng Ye, Yan Solihin, Xipeng Shen; <br>
+The 49th International Symposium on Computer Architecture (**ISCA**), 2022. <br>
+to appear.
 
-* **\[HPCA 2022\]** **<font color="#0081ff"> Temporal Exposure Reduction Protection for Persistent Memory </font>**;
-**Yuanchao Xu**, Chencheng Ye, Xipeng Shen, and Yan Solihin;
-The 28th International Symposium on High-Performance Computer Architecture (**HPCA**), 2022. <br> [<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/HPCA22.pdf).
+* **\[HPCA 2022\]** **<font color="#0081ff"> Temporal Exposure Reduction Protection for Persistent Memory </font>**; <br>
+**Yuanchao Xu**, Chencheng Ye, Xipeng Shen, and Yan Solihin; <br>
+The 28th International Symposium on High-Performance Computer Architecture (**HPCA**), 2022. <br>
+[<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/HPCA22.pdf).
 
-* **\[OOPSLA 2021\]** **<font color="#0081ff"> UDF to SQL Translation through Compositional Lazy Inductive Synthesis</font>**;
-Guoqiang Zhang, **Yuanchao Xu**, Xipeng Shen, and Işil Dillig;
-ACM SIGPLAN Object-oriented Programming, Systems, Languages, and Applications (**OOPSLA**), 2021. <br> [<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/OOPSLA2021.pdf)
+* **\[OOPSLA 2021\]** **<font color="#0081ff"> UDF to SQL Translation through Compositional Lazy Inductive Synthesis</font>**; <br>
+Guoqiang Zhang, **Yuanchao Xu**, Xipeng Shen, and Işil Dillig; <br>
+ACM SIGPLAN Object-oriented Programming, Systems, Languages, and Applications (**OOPSLA**), 2021. <br>
+[<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/OOPSLA2021.pdf)
 
-* **\[MICRO 2021\]** **<font color="#0081ff"> PCCS: Processor-Centric Contention Slowdown Model for Heterogeneous System-on-chips</font>**; **Yuanchao Xu**, Mehmet Esat Belviranli, Xipeng Shen, and Jeffrey Vetter; The 54th International Symposium on Microarchitecture (**MICRO**), 2021. <br> [<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/MICRO2021.pdf) [<font color="#0081ff">[Slides]</font>](http://yuanchaoxu6.github.io/files/MICRO2021_PCCS.pdf)
+* **\[MICRO 2021\]** **<font color="#0081ff"> PCCS: Processor-Centric Contention Slowdown Model for Heterogeneous System-on-chips</font>**; <br>
+**Yuanchao Xu**, Mehmet Esat Belviranli, Xipeng Shen, and Jeffrey Vetter; <br>
+The 54th International Symposium on Microarchitecture (**MICRO**), 2021. <br>
+[<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/MICRO2021.pdf) [<font color="#0081ff">[Slides]</font>](http://yuanchaoxu6.github.io/files/MICRO2021_PCCS.pdf)
 
 * **\[ISCA 2021\]** **<font color="#0081ff"> Supporting Legacy Libraries on Non-Volatile Memory: A User-Transparent Approach</font>**; Chencheng Ye, **Yuanchao Xu**, Xipeng Shen, Xiaofei Liao, Hai Jin and Yan Solihin; The 48th International Symposium on Computer Architecture (**ISCA**), 2021. <br> [<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/ISCA21.pdf)
 
