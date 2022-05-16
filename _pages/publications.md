@@ -24,9 +24,15 @@ ACM SIGPLAN Object-oriented Programming, Systems, Languages, and Applications (*
 The 54th International Symposium on Microarchitecture (**MICRO**), 2021. <br>
 [<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/MICRO2021.pdf) [<font color="#0081ff">[Slides]</font>](http://yuanchaoxu6.github.io/files/MICRO2021_PCCS.pdf)
 
-* **\[ISCA 2021\]** **<font color="#0081ff"> Supporting Legacy Libraries on Non-Volatile Memory: A User-Transparent Approach</font>**; Chencheng Ye, **Yuanchao Xu**, Xipeng Shen, Xiaofei Liao, Hai Jin and Yan Solihin; The 48th International Symposium on Computer Architecture (**ISCA**), 2021. <br> [<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/ISCA21.pdf)
+* **\[ISCA 2021\]** **<font color="#0081ff"> Supporting Legacy Libraries on Non-Volatile Memory: A User-Transparent Approach</font>**; <br>
+Chencheng Ye, **Yuanchao Xu**, Xipeng Shen, Xiaofei Liao, Hai Jin and Yan Solihin; <br>
+The 48th International Symposium on Computer Architecture (**ISCA**), 2021. <br>
+[<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/ISCA21.pdf)
 
-* **\[HPCA 2021\]** **<font color="#0081ff"> Hardware-Based Address-Centric Acceleration of Key-Value Store</font>**; Chencheng Ye, **Yuanchao Xu**, Xipeng Shen, Xiaofei Liao, Hai Jin and Yan Solihin; The 27th International Symposium on High-Performance Computer Architecture (**HPCA**), 2021. <br> [<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/HPCA21.pdf)
+* **\[HPCA 2021\]** **<font color="#0081ff"> Hardware-Based Address-Centric Acceleration of Key-Value Store</font>**; <br>
+Chencheng Ye, **Yuanchao Xu**, Xipeng Shen, Xiaofei Liao, Hai Jin and Yan Solihin; <br>
+The 27th International Symposium on High-Performance Computer Architecture (**HPCA**), 2021. <br>
+[<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/HPCA21.pdf)
 
 * **\[ISCA 2020\]** **<font color="#0081ff"> Hardware-Based Domain Virtualization for Intra-Process Isolation of Persistent Memory Objects</font>**; **Yuanchao Xu**, Chencheng Ye, Yan Solihin, and Xipeng Shen; The 47th International Symposium on Computer Architecture (**ISCA**), 2020. <br> [<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/isca20.pdf)[<font color="#0081ff">[Slides]</font>](http://yuanchaoxu6.github.io/files/ISCA2020MPKVirtualization.pdf)
 
