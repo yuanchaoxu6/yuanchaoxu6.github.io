@@ -7,12 +7,13 @@ author_profile: true
 * **\[ISCA 2022\]** **<font color="#0081ff"> FFCCD: Fence-Free Crash-Consistent Concurrent Defragmentation for Persistent Memory</font>**; <br>
 **Yuanchao Xu**, Chencheng Ye, Yan Solihin, Xipeng Shen; <br>
 The 49th International Symposium on Computer Architecture (**ISCA**), 2022. <br>
-to appear.
+[<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/ISCA22.pdf) [<font color="#0081ff">[Slides]</font>](http://yuanchaoxu6.github.io/files/ISCA2022_FFCCD.pdf)
+
 
 * **\[HPCA 2022\]** **<font color="#0081ff"> Temporal Exposure Reduction Protection for Persistent Memory</font>**; <br>
 **Yuanchao Xu**, Chencheng Ye, Xipeng Shen, and Yan Solihin; <br>
 The 28th International Symposium on High-Performance Computer Architecture (**HPCA**), 2022. <br>
-[<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/HPCA22.pdf).
+[<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/HPCA22.pdf). [<font color="#0081ff">[Slides]</font>](http://yuanchaoxu6.github.io/files/HPCA22_TERP.pdf)
 
 * **\[OOPSLA 2021\]** **<font color="#0081ff"> UDF to SQL Translation through Compositional Lazy Inductive Synthesis</font>**; <br>
 Guoqiang Zhang, **Yuanchao Xu**, Xipeng Shen, and Işil Dillig; <br>
