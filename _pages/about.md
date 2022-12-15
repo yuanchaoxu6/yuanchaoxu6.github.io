@@ -14,7 +14,7 @@ I am on the academic job market this year. Feel free to reach out if interested.
 
 News
 ======
-* 2022/09/21: Our paper “<font color="#0081ff">SpecPMT: Speculative Logging for Resolving Crash Consistency Overhead of Persistent Memory</font>" was conditionally accepted by ASPLOS 2023.
+* 2022/09/21: Our paper “<font color="#0081ff">SpecPMT: Speculative Logging for Resolving Crash Consistency Overhead of Persistent Memory</font>" was accepted by ASPLOS 2023.
 * 2022/03/02: Our paper “[<font color="#0081ff">FFCCD: Fence-Free Crash-Consistent Concurrent Defragmentation for Persistent Memory</font>](http://yuanchaoxu6.github.io/files/ISCA22.pdf)" was accepted by ISCA 2022.
 * 2021/10/28: Our paper “[<font color="#0081ff">Temporal Exposure Reduction Protection for Persistent Memory</font>](http://yuanchaoxu6.github.io/files/HPCA22.pdf)” was accepted by HPCA 2022.
 * 2021/09/02: Our paper “[<font color="#0081ff">UDF to SQL Translation through Compositional Lazy Inductive Synthesis</font>](http://yuanchaoxu6.github.io/files/OOPSLA2021.pdf)” was accepted by OOPSLA 2021.
