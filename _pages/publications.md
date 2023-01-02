@@ -45,7 +45,7 @@ The 54th International Symposium on Microarchitecture (**MICRO**), 2021. <br>
 **\[ICDM 2021\]** **<font color="#0081ff"> Recurrent Neural Networks Meet Context-Free Grammar: Two Birds with One Stone</font>**; <br>
 Hui Guan, Umang Chaudhary, **Yuanchao Xu**, Lin Ning, Lijun Zhang, and Xipeng Shen; <br>
 the IEEE International Conference on Data Mining (**ICDM**), 2021. <br>
-[<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/MICRO2021.pdf) [<font color="#0081ff">[Slides]</font>](http://yuanchaoxu6.github.io/files/MICRO2021_PCCS.pdf)
+[<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/MICRO2021.pdf) [<font color="#0081ff">[Slides]</font>](http://yuanchaoxu6.github.io/files/ICDM21.pdf)
 
 
 **\[OOPSLA 2021\]** **<font color="#0081ff"> UDF to SQL Translation through Compositional Lazy Inductive Synthesis</font>**; <br>
@@ -79,5 +79,21 @@ The 32nd IEEE International Parallel and Distributed Processing Symposium, (**IP
 [<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/ipdps18.pdf)
 
 
-Conference
+Journal
 ======
+
+**\[TACO 2022\]** **<font color="#0081ff"> Preserving Addressability Upon GC-Triggered Data Movements on Non-Volatile Memory</font>**; <br>
+Chencheng Ye, **Yuanchao Xu**, Xipeng Shen, Hai Jin, Xiaofei Liao, Yan Solihin, Chencheng Ye, Yan Solihin, and Xipeng Shen; <br>
+the ACM Transactions on Architecture and Code Optimization, (**TACO**), 2022. <br>
+[<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/TACO22.pdf)
+
+
+Workshop
+======
+**\[NVMW 2022\]** **<font color="#0081ff"> SoftPM: Software Persistent Memory</font>**; <br>
+**Yuanchao Xu**, Wei Xu, Kimberly Keeton, and David E. Culler; <br>
+the 13th Non-Volatile Memories Workshop, (**NVMW**), 2022. <br>
+
+**\[SEED 2021\]** **<font color="#0081ff"> ew Security Challenges for Persistent Memory</font>**; <br>
+Naveed Ul Mustafa, **Yuanchao Xu**, Xipeng Shen, and Yan Solihin; <br>
+the 1st International Symposium on Secure and Private Execution Environment Design, (**SEED**), 2021. <br>
