@@ -14,7 +14,7 @@ I am on the academic job market this year. Feel free to reach out if interested.
 
 [<font color="#0081ff">CV</font>](http://yuanchaoxu6.github.io/files/CV_Yuanchao_Xu.pdf)
 
-Selected Publications [<font color="#0081ff">（full list) </font>](https://yuanchaoxu6.github.io/publications/)
+Selected Publications [<font color="#0081ff">(full list)</font>](https://yuanchaoxu6.github.io/publications/)
 ======
 
 * **\[ASPLOS 2023\]** **<font color="#0081ff"> SpecPMT: Speculative Logging for Resolving Crash Consistency

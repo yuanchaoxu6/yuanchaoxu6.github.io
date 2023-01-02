@@ -4,11 +4,22 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+* **\[ASPLOS 2023\]** **<font color="#0081ff"> SpecPMT: Speculative Logging for Resolving Crash Consistency
+Overhead of Persistent Memory</font>**; <br>
+Chencheng Ye, **Yuanchao Xu**, Xipeng Shen, Yan Sha, Xiaofei Liao, Hai Jin and Yan Solihin; <br>
+The 28th ACM International Conference on Architecture Support for Programming Languages and Operating Systems (**ASPLOS**), 2023. <br>
+[<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/ASPLOS2023_SpecPMT.pdf)
+
+* **\[HPCA 2023\]** **<font color="#0081ff"> Reconciling Selective Logging and Hardware Persistent Memory Transaction</font>**; <br>
+Chencheng Ye, **Yuanchao Xu**, Xipeng Shen, Yan Sha, Xiaofei Liao, Hai Jin and Yan Solihin; <br>
+The 29th International Symposium on High-Performance Computer Architecture (**HPCA**), 2023. <br>
+[<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/HPCA2023_SelectiveLogging.pdf)
+
 * **\[ISCA 2022\]** **<font color="#0081ff"> FFCCD: Fence-Free Crash-Consistent Concurrent Defragmentation for Persistent Memory</font>**; <br>
 **Yuanchao Xu**, Chencheng Ye, Yan Solihin, Xipeng Shen; <br>
 The 49th International Symposium on Computer Architecture (**ISCA**), 2022. <br>
 [<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/ISCA22.pdf) [<font color="#0081ff">[Slides]</font>](http://yuanchaoxu6.github.io/files/ISCA2022_FFCCD.pdf)
-
 
 * **\[HPCA 2022\]** **<font color="#0081ff"> Temporal Exposure Reduction Protection for Persistent Memory</font>**; <br>
 **Yuanchao Xu**, Chencheng Ye, Xipeng Shen, and Yan Solihin; <br>
