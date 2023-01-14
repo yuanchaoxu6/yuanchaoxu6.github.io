@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year (final year) PhD student in the Department of Computer Science, North Carolina State University (NCSU), advised by [<font color="#0081ff">Dr. Xipeng Shen</font>](https://people.engr.ncsu.edu/xshen5/) and [<font color="#0081ff">Dr. Yan Solihin</font>](https://sites.google.com/view/arpers). I have been working as a student researcher at [<font color="#0081ff">SystemsResearch@Google</font>](https://techsysinfra.google/research/) group since 2021, where I am advised by [<font color="#0081ff">Dr. David E. Culler</font>](http://people.eecs.berkeley.edu/~culler/). My research interests are in computer security and computer architecture. Before joining NCSU, I received my Master degree and Bachelor degree from Tsinghua University and Jilin University, respectively.
+I am a fifth-year (final year) PhD student in the Department of Computer Science, North Carolina State University (NCSU), advised by [<font color="#0081ff">Dr. Xipeng Shen</font>](https://people.engr.ncsu.edu/xshen5/) and [<font color="#0081ff">Dr. Yan Solihin</font>](https://sites.google.com/view/arpers). I have been working as a student researcher at [<font color="#0081ff">SystemResearch@Google</font>](https://techsysinfra.google/research/) group since 2021, where I am advised by [<font color="#0081ff">Dr. David E. Culler</font>](http://people.eecs.berkeley.edu/~culler/). My research interests are in computer security and computer architecture. Before joining NCSU, I received my Master degree and Bachelor degree from Tsinghua University and Jilin University, respectively.
 
 I am on the academic job market this year. Feel free to reach out if interested.
 
