@@ -90,9 +90,15 @@ the ACM Transactions on Architecture and Code Optimization, (**TACO**), 2022. <b
 
 Workshop
 ======
+**\[NVMW 2023\]** **<font color="#0081ff"> Temporal Exposure Reduction Protection for Persistent Memory</font>**; <br>
+**Yuanchao Xu**, Chencheng Ye, Xipeng Shen, and Yan Solihin; <br>
+the 14th Non-Volatile Memories Workshop, (**NVMW**), 2023. <br>
+[<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/NVMW23_TERP.pdf)
+
 **\[NVMW 2022\]** **<font color="#0081ff"> SoftPM: Software Persistent Memory</font>**; <br>
 **Yuanchao Xu**, Wei Xu, Kimberly Keeton, and David E. Culler; <br>
 the 13th Non-Volatile Memories Workshop, (**NVMW**), 2022. <br>
+[<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/NVMW22_SoftPM.pdf)
 
 **\[SEED 2021\]** **<font color="#0081ff"> ew Security Challenges for Persistent Memory</font>**; <br>
 Naveed Ul Mustafa, **Yuanchao Xu**, Xipeng Shen, and Yan Solihin; <br>
