@@ -13,7 +13,10 @@ I am an Assistant Professor of [<font color="#0081ff">Computer Science and Engin
 
 
 
-**I have multiple openings for Ph.D. students (starting in Spring 2024/Fall 2024). If you are interested in working with me, feel free to contact me at yxu47@ncsu.edu!**
+My research interests are in computer architecture, security, and ML systems.
+
+
+**I have multiple openings for Ph.D. students (starting in Spring 2024/Fall 2024). Feel free to contact me at yxu47@ncsu.edu if you are interested in working with me!**
 
 
 
