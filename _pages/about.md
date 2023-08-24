@@ -13,7 +13,7 @@ I am an Assistant Professor of [<font color="#0081ff">Computer Science and Engin
 
 My research interests are in computer architecture, security, and ML systems.
 
-**I have multiple openings for Ph.D. students (starting in Spring 2024/Fall 2024). Feel free to contact me at yxu47@ncsu.edu if you are interested in working with me!**
+**I have multiple openings for Ph.D. students (starting in Spring 2024/Fall 2024). Feel free to contact me at yxu314@ucsc.edu if you are interested in working with me!**
 
 
 [<font color="#0081ff">CV</font>](http://yuanchaoxu6.github.io/files/CV_Yuanchao_Xu.pdf)
