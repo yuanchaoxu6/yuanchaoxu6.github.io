@@ -11,7 +11,7 @@ redirect_from:
 I am an Assistant Professor of [<font color="#0081ff">Computer Science and Engineering</font>](https://engineering.ucsc.edu/departments/computer-science-and-engineering/) at [<font color="#0081ff">University of California Santa Cruz</font>](https://www.ucsc.edu/). Prior to that, I obtained my Ph.D. degree from the Department of Computer Science, North Carolina State University (NCSU), advised by [<font color="#0081ff">Dr. Xipeng Shen</font>](https://people.engr.ncsu.edu/xshen5/) and [<font color="#0081ff">Dr. Yan Solihin</font>](https://sites.google.com/view/arpers). I have been working as a student researcher at [<font color="#0081ff">SystemResearch@Google</font>](https://techsysinfra.google/research/) since 2021, where I am advised by [<font color="#0081ff">Dr. David E. Culler</font>](http://people.eecs.berkeley.edu/~culler/).
 
 
-My research interests are in computer architecture, security, and ML systems.
+My research interests are in computer architecture, security, and ML systems and architecture.
 
 **I have multiple openings for Ph.D., master, and undergraduate students (starting in Fall 2023/Fall 2024). Feel free to contact me at yxu314@ucsc.edu if you are interested in working with me!**
 
@@ -20,11 +20,18 @@ My research interests are in computer architecture, security, and ML systems.
 
 News
 =====
+Our research on trusted execution environments is accepted by HPCA 2024.
 Serving as the Registration Chair for [<font color="#0081ff">(ISCA 2023)</font>](https://iscaconf.org/isca2023/). Please consider attending!
 
 
 Selected Publications [<font color="#0081ff">(full list)</font>](https://yuanchaoxu6.github.io/publications/)
 ======
+
+**\[HPCA 2024\]** **<font color="#0081ff"> Data Enclave: A Data-Centric Trusted Execution Environment</font>**; <br>
+**Yuanchao Xu**, James Pangia, Chencheng Ye, Yan Solihin, and Xipeng Shen; <br>
+The 30th International Symposium on High-Performance Computer Architecture (**HPCA**), 2024. <br>
+to appear
+
 
 **\[ASPLOS 2023\]** **<font color="#0081ff"> SpecPMT: Speculative Logging for Resolving Crash Consistency
 Overhead of Persistent Memory</font>**; <br>
