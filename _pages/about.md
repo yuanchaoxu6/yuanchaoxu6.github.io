@@ -20,7 +20,7 @@ My research interests are in computer architecture, security, and ML systems and
 
 News
 =====
-Our research on trusted execution environments is accepted by [<font color="#0081ff">(HPCA 2024)</font>](https://hpca-conf.org/2024/).
+Our research on trusted execution environments is accepted by [<font color="#0081ff">HPCA 2024</font>](https://hpca-conf.org/2024/).
 
 Serving as the Registration Chair for [<font color="#0081ff">(ISCA 2023)</font>](https://iscaconf.org/isca2023/). Please consider attending!
 
