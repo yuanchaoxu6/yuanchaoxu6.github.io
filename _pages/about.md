@@ -23,7 +23,7 @@ News
 
 Serving as the program committee for ASPLOS 2025.
 
-Serving as the organization committee for HPCA 2025
+Serving as the organization committee for HPCA 2025.
 
 Our research on trusted execution environments is accepted by [<font color="#0081ff">HPCA 2024</font>](https://hpca-conf.org/2024/).
 
