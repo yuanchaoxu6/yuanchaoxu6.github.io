@@ -21,7 +21,11 @@ My research interests are in computer architecture, security, and ML systems and
 News
 =====
 
-Serving as the program committee for ASPLOS 2025.
+Received 2024 CSC Outstanding Dissertation Award from NCSU for my Ph.D. Thesis on "Data-Centric Architecture Support for Security".
+
+Our research on ML systems on serverless is accpeted by [<font color="#0081ff">HPDC 2024</font>](https://www.hpdc.org/2024/)
+
+Serving as the program committee for [<font color="#0081ff">ASPLOS 2025</font>](https://www.asplos-conference.org/asplos-2025-call-for-papers/).
 
 Serving as the organization committee for HPCA 2025.
 
@@ -32,9 +36,14 @@ Serving as the program committee for ISPASS 2024.
 Serving as the Registration Chair for [<font color="#0081ff">ISCA 2023</font>](https://iscaconf.org/isca2023/). Please consider attending!
 
 
-
 Selected Publications [<font color="#0081ff">(full list)</font>](https://yuanchaoxu6.github.io/publications/)
 ======
+
+
+**\[HPDC 2024\]** **<font color="#0081ff"> ESG: Pipeline-Conscious Efficient Scheduling of DNN Workflows on Serverless Platforms with Shareable GPUs</font>**; <br>
+Xinning Hui, **Yuanchao Xu**, Zhishan Guo, and Xipeng Shen; <br>
+The 33rd International Symposium on High-Performance Parallel and Distributed Computing (**HPDC**), 2024. <br>
+to appear
 
 **\[HPCA 2024\]** **<font color="#0081ff"> Data Enclave: A Data-Centric Trusted Execution Environment</font>**; <br>
 **Yuanchao Xu**, James Pangia, Chencheng Ye, Yan Solihin, and Xipeng Shen; <br>
