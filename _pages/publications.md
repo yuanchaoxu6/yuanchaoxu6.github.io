@@ -8,6 +8,11 @@ author_profile: true
 Conference
 ======
 
+**\[HPDC 2024\]** **<font color="#0081ff"> ESG: Pipeline-Conscious Efficient Scheduling of DNN Workflows on Serverless Platforms with Shareable GPUs</font>**; <br>
+Xinning Hui, **Yuanchao Xu**, Zhishan Guo, and Xipeng Shen; <br>
+The 33rd International Symposium on High-Performance Parallel and Distributed Computing (**HPDC**), 2024. <br>
+to appear
+
 **\[HPCA 2024\]** **<font color="#0081ff"> Data Enclave: A Data-Centric Trusted Execution Environment</font>**; <br>
 **Yuanchao Xu**, James Pangia, Chencheng Ye, Yan Solihin, and Xipeng Shen; <br>
 The 30th International Symposium on High-Performance Computer Architecture (**HPCA**), 2024. <br>
