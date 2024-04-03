@@ -21,7 +21,7 @@ My research interests are in computer architecture, security, and ML systems and
 News
 =====
 
-Serving as the external review committee for [<font color="#0081ff">MICRO 2024</font>](https://microarch.org/micro57/).
+Serving as the program committee for [<font color="#0081ff">MICRO 2024</font>](https://microarch.org/micro57/).
 
 Received 2024 [<font color="#0081ff">Outstanding Dissertation Award</font>](https://www.csc.ncsu.edu/academics/graduate/graduate_awards.php) from NCSU for my Ph.D. Thesis on "Data-Centric Architecture Support for Security". 
 
