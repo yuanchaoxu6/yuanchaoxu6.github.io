@@ -25,7 +25,7 @@ Serving as the program committee for [<font color="#0081ff">MICRO 2024</font>](h
 
 Received 2024 [<font color="#0081ff">Outstanding Dissertation Award</font>](https://www.csc.ncsu.edu/academics/graduate/graduate_awards.php) from NCSU for my Ph.D. Thesis on "Data-Centric Architecture Support for Security". 
 
-Our research on ML systems on serverless is accpeted by [<font color="#0081ff">HPDC 2024</font>](https://www.hpdc.org/2024/)
+Our research on ML systems for serverless computing is accpeted by [<font color="#0081ff">HPDC 2024</font>](https://www.hpdc.org/2024/)
 
 Serving as the program committee for [<font color="#0081ff">ASPLOS 2025</font>](https://www.asplos-conference.org/asplos-2025-call-for-papers/).
 
