@@ -31,7 +31,7 @@ author_profile: true
 
 - BS: HUST
 
-## Undergraduate researchers
+## Undergraduates
 
 ### Larry Balagula
 
