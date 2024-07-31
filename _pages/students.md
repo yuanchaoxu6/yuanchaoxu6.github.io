@@ -21,7 +21,7 @@ author_profile: true
 
 ### Chuanhan Li (PhD 2024-)
 
-- MS: Hunan University, BS: HUST
+- MS: HUST, BS: Hunan University
 
 ### Shuran Sun (PhD 2024-)
 
