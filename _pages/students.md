@@ -7,10 +7,6 @@ author_profile: true
 
 ## PhD students
 
-### Yinzhe Zhang (PhD 2023-)
-
-- MS: Georgia Tech, BS: SJTU
-
 ### Gangqi Huang (PhD 2024-)
 
 - BS: HUST
