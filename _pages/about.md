@@ -13,7 +13,7 @@ I am an Assistant Professor of [<font color="#0081ff">Department of Computer Sci
 
 My research interests are in computer architecture, security, and ML systems and architecture.
 
-**I have 2-3 openings for Ph.D. students starting in Fall 2025. Feel free to contact me at yxu314@ucsc.edu if you are interested in working with me!**
+**I have 2 openings for Ph.D. students starting in Fall 2025. Feel free to contact me at yxu314@ucsc.edu if you are interested in working with me!**
 
 
 [<font color="#0081ff">CV</font>](http://yuanchaoxu6.github.io/files/CV_Yuanchao_Xu.pdf)
