@@ -21,27 +21,40 @@ My research interests are in computer architecture, security, and ML systems and
 News
 =====
 
+Our research on disaggregated memory key-value stores has been accepted by VLDB 2025 [<font color="#0081ff">VLDB 2025</font>](https://vldb.org/2025/).
+
+Serving as the program committee for [<font color="#0081ff">ISCA 2025</font>](https://iscaconf.org/isca2025/).
+
+Our research on ML systems for serverless computing has been accpeted by [<font color="#0081ff">HPDC 2024</font>](https://www.hpdc.org/2024/)
+
 Our research on system-on-chip security has been awarded by NSF. Thank you for your support, NSF!
 
 Serving as the program committee for [<font color="#0081ff">MICRO 2024</font>](https://microarch.org/micro57/).
 
 Received the 2024 [<font color="#0081ff">Outstanding Dissertation Award</font>](https://www.csc.ncsu.edu/academics/graduate/graduate_awards.php) from NCSU for my Ph.D. Thesis on "Data-Centric Architecture Support for Security". 
 
-Our research on ML systems for serverless computing is accpeted by [<font color="#0081ff">HPDC 2024</font>](https://www.hpdc.org/2024/)
+Our research on ML systems for serverless computing has been accpeted by [<font color="#0081ff">HPDC 2024</font>](https://www.hpdc.org/2024/)
 
 Serving as the program committee for [<font color="#0081ff">ASPLOS 2025</font>](https://www.asplos-conference.org/asplos-2025-call-for-papers/).
 
 Serving as the organization committee for HPCA 2025.
 
-Our research on trusted execution environments is accepted by [<font color="#0081ff">HPCA 2024</font>](https://hpca-conf.org/2024/).
+Our research on trusted execution environments has been accepted by [<font color="#0081ff">HPCA 2024</font>](https://hpca-conf.org/2024/).
+
+<!--
 
 Serving as the program committee for ISPASS 2024.
 
 Serving as the Registration Chair for [<font color="#0081ff">ISCA 2023</font>](https://iscaconf.org/isca2023/). Please consider attending!
-
+Text-->
 
 Selected Publications [<font color="#0081ff">(full list)</font>](https://yuanchaoxu6.github.io/publications/)
 ======
+
+**\[VLDB 2025\]** **<font color="#0081ff"> Outback: Fast and Communication-efficient Index for Key-Value Store on Disaggregated Memory.</font>**; <br>
+Yi Liu, Minghao Xie, Shouqian Shi, **Yuanchao Xu**, Heiner Litz, Chen Qian; <br>
+The 51st International Conference on Very Large Data Bases (**VLDB**), 2025. <br>
+to appear
 
 **\[HPDC 2024\]** **<font color="#0081ff"> ESG: Pipeline-Conscious Efficient Scheduling of DNN Workflows on Serverless Platforms with Shareable GPUs</font>**; <br>
 Xinning Hui, **Yuanchao Xu**, Zhishan Guo, and Xipeng Shen; <br>
