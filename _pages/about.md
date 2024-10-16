@@ -21,7 +21,7 @@ My research interests are in computer architecture, security, and ML systems and
 News
 =====
 
-Our research on disaggregated memory key-value stores has been accepted by VLDB 2025 [<font color="#0081ff">VLDB 2025</font>](https://vldb.org/2025/).
+Our research on disaggregated memory key-value stores has been accepted by [<font color="#0081ff">VLDB 2025</font>](https://vldb.org/2025/).
 
 Serving as the program committee for [<font color="#0081ff">ISCA 2025</font>](https://iscaconf.org/isca2025/).
 
