@@ -11,7 +11,7 @@ author_profile: true
 
 - BS: HUST
 
-Topic: CXL performance
+Topic: CXL performance and correctness
 
 ### Xiangyue Huang (PhD 2024-)
 
