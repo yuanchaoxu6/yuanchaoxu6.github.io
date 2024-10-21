@@ -11,31 +11,31 @@ author_profile: true
 
 - BS: HUST
 
-Topic: CXL performance and correctness
+- Topic: CXL performance and correctness
 
 ### Xiangyue Huang (PhD 2024-)
 
 - BS: Wuhan University
 
-Topic: CXL attack
+- Topic: CXL attack
 
 ### Chuanhan Li (PhD 2024-)
 
 - MS: HUST, BS: Hunan University
 
-Topic: CXL security
+- Topic: CXL security
 
 ### Shuran Sun (PhD 2024-)
 
 - BS: Fudan University
 
-Topic: CXL performance
+- Topic: CXL performance
 
 ### Qizhong Wang (PhD 2024-)
 
 - BS: HUST
 
-Topic: GPU security
+- Topic: GPU security
 
 ## Undergraduates
 
