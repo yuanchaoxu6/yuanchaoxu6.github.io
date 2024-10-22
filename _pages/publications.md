@@ -8,6 +8,11 @@ author_profile: true
 Conference
 ======
 
+**\[VLDB 2025\]** **<font color="#0081ff"> Outback: Fast and Communication-efficient Index for Key-Value Store on Disaggregated Memory.</font>**; <br>
+Yi Liu, Minghao Xie, Shouqian Shi, **Yuanchao Xu**, Heiner Litz, Chen Qian; <br>
+The 51st International Conference on Very Large Data Bases (**VLDB**), 2025. <br>
+to appear
+
 **\[HPDC 2024\]** **<font color="#0081ff"> ESG: Pipeline-Conscious Efficient Scheduling of DNN Workflows on Serverless Platforms with Shareable GPUs</font>**; <br>
 Xinning Hui, **Yuanchao Xu**, Zhishan Guo, and Xipeng Shen; <br>
 The 33rd International Symposium on High-Performance Parallel and Distributed Computing (**HPDC**), 2024. <br>
