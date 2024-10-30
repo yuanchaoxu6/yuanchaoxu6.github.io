@@ -17,7 +17,7 @@ author_profile: true
 
 - BS: Wuhan University
 
-- Topic: CXL attack
+- Topic: CXL and GPU architecture
 
 ### Chuanhan Li (PhD 2024-)
 
