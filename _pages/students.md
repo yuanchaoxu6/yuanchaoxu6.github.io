@@ -35,7 +35,7 @@ author_profile: true
 
 - BS: HUST
 
-- Topic: GPU security
+- Topic: GPU architecture and ML systems
 
 ## Undergraduates
 
