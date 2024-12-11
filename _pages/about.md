@@ -21,25 +21,27 @@ My research interests are in computer architecture, security, and ML systems and
 News
 =====
 
-Our research on disaggregated memory key-value stores has been accepted by [<font color="#0081ff">VLDB 2025</font>](https://vldb.org/2025/).
+Our research about ML on serverless computing has been conditionally accepted with shepherding by [<font color="#0081ff">SIGMETRICS 2025</font>](https://www.sigmetrics.org/sigmetrics2025/)
+
+Our research about disaggregated memory key-value stores has been accepted by [<font color="#0081ff">VLDB 2025</font>](https://vldb.org/2025/).
 
 Serving as the program committee for [<font color="#0081ff">ISCA 2025</font>](https://iscaconf.org/isca2025/).
 
-Our research on ML systems for serverless computing has been accpeted by [<font color="#0081ff">HPDC 2024</font>](https://www.hpdc.org/2024/)
+Our research about ML systems on serverless computing has been accpeted by [<font color="#0081ff">HPDC 2024</font>](https://www.hpdc.org/2024/)
 
-Our research on system-on-chip security has been awarded by NSF. Thank you for your support, NSF!
+Our research about system-on-chip security has been awarded by NSF. Thank you for your support, NSF!
 
 Serving as the program committee for [<font color="#0081ff">MICRO 2024</font>](https://microarch.org/micro57/).
 
 Received the 2024 [<font color="#0081ff">Outstanding Dissertation Award</font>](https://www.csc.ncsu.edu/academics/graduate/graduate_awards.php) from NCSU for my Ph.D. Thesis on "Data-Centric Architecture Support for Security". 
 
-Our research on ML systems for serverless computing has been accpeted by [<font color="#0081ff">HPDC 2024</font>](https://www.hpdc.org/2024/)
+Our research about ML systems on serverless computing has been accpeted by [<font color="#0081ff">HPDC 2024</font>](https://www.hpdc.org/2024/)
 
 Serving as the program committee for [<font color="#0081ff">ASPLOS 2025</font>](https://www.asplos-conference.org/asplos-2025-call-for-papers/).
 
 Serving as the organization committee for HPCA 2025.
 
-Our research on trusted execution environments has been accepted by [<font color="#0081ff">HPCA 2024</font>](https://hpca-conf.org/2024/).
+Our research about trusted execution environments has been accepted by [<font color="#0081ff">HPCA 2024</font>](https://hpca-conf.org/2024/).
 
 <!--
 
