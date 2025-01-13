@@ -21,9 +21,11 @@ My research interests are in computer architecture, security, and ML systems and
 News
 =====
 
-Our research about ML on serverless computing has been conditionally accepted with shepherding by [<font color="#0081ff">SIGMETRICS 2025</font>](https://www.sigmetrics.org/sigmetrics2025/)
+Our research about ML on serverless computing has been accepted by [<font color="#0081ff">SIGMETRICS 2025</font>](https://www.sigmetrics.org/sigmetrics2025/)
 
 Our research about disaggregated memory key-value stores has been accepted by [<font color="#0081ff">VLDB 2025</font>](https://vldb.org/2025/).
+
+Our research about system-on-chip security has been accepted by [<font color="#0081ff">DATE 2025</font>](https://www.date-conference.com/)
 
 Serving as the program committee for [<font color="#0081ff">ISCA 2025</font>](https://iscaconf.org/isca2025/).
 
@@ -52,6 +54,12 @@ Text-->
 
 Selected Publications [<font color="#0081ff">(full list)</font>](https://yuanchaoxu6.github.io/publications/)
 ======
+
+**\[SIGMETRICS 2025\]** **<font color="#0081ff"> Exploring Function Granularity for Serverless Machine Learning Application with GPU Sharing.</font>**; <br>
+Xinning Hui, **Yuanchao Xu**, and Xipeng Shen; <br>
+The 2025 ACM on Measurement and Analysis of Computing Systems (**SIGMETRICS**), 2025. <br>
+to appear
+
 
 **\[VLDB 2025\]** **<font color="#0081ff"> Outback: Fast and Communication-efficient Index for Key-Value Store on Disaggregated Memory.</font>**; <br>
 Yi Liu, Minghao Xie, Shouqian Shi, **Yuanchao Xu**, Heiner Litz, Chen Qian; <br>
