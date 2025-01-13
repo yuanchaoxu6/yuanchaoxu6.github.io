@@ -21,7 +21,7 @@ My research interests are in computer architecture, security, and ML systems and
 News
 =====
 
-Our research about ML on serverless computing has been accepted by [<font color="#0081ff">SIGMETRICS 2025</font>](https://www.sigmetrics.org/sigmetrics2025/)
+Our research about ML inference on serverless computing has been accepted by [<font color="#0081ff">SIGMETRICS 2025</font>](https://www.sigmetrics.org/sigmetrics2025/)
 
 Our research about disaggregated memory key-value stores has been accepted by [<font color="#0081ff">VLDB 2025</font>](https://vldb.org/2025/).
 
@@ -29,7 +29,7 @@ Our research about system-on-chip security has been accepted by [<font color="#0
 
 Serving as the program committee for [<font color="#0081ff">ISCA 2025</font>](https://iscaconf.org/isca2025/).
 
-Our research about ML systems on serverless computing has been accpeted by [<font color="#0081ff">HPDC 2024</font>](https://www.hpdc.org/2024/)
+Our research about ML inference on serverless computing has been accpeted by [<font color="#0081ff">HPDC 2024</font>](https://www.hpdc.org/2024/)
 
 Our research about system-on-chip security has been awarded by NSF. Thank you for your support, NSF!
 
@@ -41,7 +41,7 @@ Our research about ML systems on serverless computing has been accpeted by [<fon
 
 Serving as the program committee for [<font color="#0081ff">ASPLOS 2025</font>](https://www.asplos-conference.org/asplos-2025-call-for-papers/).
 
-Serving as the organization committee for HPCA 2025.
+Serving as the organization committee for [<font color="#0081ff">HPCA 2025</font>](https://hpca-conf.org/2025/).
 
 Our research about trusted execution environments has been accepted by [<font color="#0081ff">HPCA 2024</font>](https://hpca-conf.org/2024/).
 
