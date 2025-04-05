@@ -30,7 +30,7 @@ to appear
 **\[HPCA 2024\]** **<font color="#0081ff"> Data Enclave: A Data-Centric Trusted Execution Environment</font>**; <br>
 **Yuanchao Xu**, James Pangia, Chencheng Ye, Yan Solihin, and Xipeng Shen; <br>
 The 30th International Symposium on High-Performance Computer Architecture (**HPCA**), 2024. <br>
-to appear
+[<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/HPCA2024_DataEnclave.pdf)
 
 **\[ASPLOS 2023\]** **<font color="#0081ff"> SpecPMT: Speculative Logging for Resolving Crash Consistency
 Overhead of Persistent Memory</font>**; <br>
