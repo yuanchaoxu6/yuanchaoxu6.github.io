@@ -55,9 +55,9 @@ Text-->
 Selected Publications [<font color="#0081ff">(full list)</font>](https://yuanchaoxu6.github.io/publications/)
 ======
 
-**\[HPDC 2025\]** **<font color="#0081ff"> ESG: Pipeline-Conscious Efficient Scheduling of DNN Workflows on Serverless Platforms with Shareable GPUs</font>**; <br>
+**\[HPDC 2025\]** **<font color="#0081ff"> FluidFaaS: A Dynamic Pipelined Solution for Serverless Computing with Strong Isolation-based GPU Sharing</font>**; <br>
 Xinning Hui, **Yuanchao Xu**, and Xipeng Shen; <br>
-The 34th International Symposium on High-Performance Parallel and Distributed Computing (**HPDC**), 2024. <br>
+The 34th International Symposium on High-Performance Parallel and Distributed Computing (**HPDC**), 2025. <br>
 to appear
 
 **\[SIGMETRICS 2025\]** **<font color="#0081ff"> Exploring Function Granularity for Serverless Machine Learning Application with GPU Sharing.</font>**; <br>
