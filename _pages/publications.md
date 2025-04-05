@@ -7,6 +7,11 @@ author_profile: true
 
 Conference
 ======
+**\[HPDC 2025\]** **<font color="#0081ff"> FluidFaaS: A Dynamic Pipelined Solution for Serverless Computing with Strong Isolation-based GPU Sharing</font>**; <br>
+Xinning Hui, **Yuanchao Xu**, and Xipeng Shen; <br>
+The 34th International Symposium on High-Performance Parallel and Distributed Computing (**HPDC**), 2025. <br>
+to appear
+
 **\[SIGMETRICS 2025\]** **<font color="#0081ff"> Exploring Function Granularity for Serverless Machine Learning Application with GPU Sharing.</font>**; <br>
 Xinning Hui, **Yuanchao Xu**, and Xipeng Shen; <br>
 The 2025 ACM on Measurement and Analysis of Computing Systems (**SIGMETRICS**), 2025. <br>

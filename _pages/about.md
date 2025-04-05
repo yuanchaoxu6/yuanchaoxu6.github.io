@@ -21,6 +21,8 @@ My research interests are in computer architecture, security, and ML systems and
 News
 =====
 
+Our research about ML inference on serverless computing has been accepted by [<font color="#0081ff">HPDC 2025</font>](https://hpdc.sci.utah.edu/2025/)
+
 Our research about ML inference on serverless computing has been accepted by [<font color="#0081ff">SIGMETRICS 2025</font>](https://www.sigmetrics.org/sigmetrics2025/)
 
 Our research about disaggregated memory key-value stores has been accepted by [<font color="#0081ff">VLDB 2025</font>](https://vldb.org/2025/).
@@ -37,8 +39,6 @@ Serving as the program committee for [<font color="#0081ff">MICRO 2024</font>](h
 
 Received the 2024 [<font color="#0081ff">Outstanding Dissertation Award</font>](https://www.csc.ncsu.edu/academics/graduate/graduate_awards.php) from NCSU for my Ph.D. Thesis on "Data-Centric Architecture Support for Security". 
 
-Our research about ML systems on serverless computing has been accpeted by [<font color="#0081ff">HPDC 2024</font>](https://www.hpdc.org/2024/)
-
 Serving as the program committee for [<font color="#0081ff">ASPLOS 2025</font>](https://www.asplos-conference.org/asplos-2025-call-for-papers/).
 
 Serving as the organization committee for [<font color="#0081ff">HPCA 2025</font>](https://hpca-conf.org/2025/).
@@ -54,6 +54,11 @@ Text-->
 
 Selected Publications [<font color="#0081ff">(full list)</font>](https://yuanchaoxu6.github.io/publications/)
 ======
+
+**\[HPDC 2025\]** **<font color="#0081ff"> ESG: Pipeline-Conscious Efficient Scheduling of DNN Workflows on Serverless Platforms with Shareable GPUs</font>**; <br>
+Xinning Hui, **Yuanchao Xu**, and Xipeng Shen; <br>
+The 34th International Symposium on High-Performance Parallel and Distributed Computing (**HPDC**), 2024. <br>
+to appear
 
 **\[SIGMETRICS 2025\]** **<font color="#0081ff"> Exploring Function Granularity for Serverless Machine Learning Application with GPU Sharing.</font>**; <br>
 Xinning Hui, **Yuanchao Xu**, and Xipeng Shen; <br>
