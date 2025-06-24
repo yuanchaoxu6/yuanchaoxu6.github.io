@@ -25,17 +25,14 @@ author_profile: true
 
 - Topic: CXL security
 
-### Shuran Sun (PhD 2024-)
+### Yuxin Yang (PhD 2025-)
 
-- BS: Fudan University
+- Glen Langdon Fellowship
 
-- Topic: CXL performance
+- MS: HUST, BS: HUST
 
-### Qizhong Wang (PhD 2024-)
+- Topic: 
 
-- BS: HUST
-
-- Topic: GPU architecture and ML systems
 
 ## Undergraduates
 
