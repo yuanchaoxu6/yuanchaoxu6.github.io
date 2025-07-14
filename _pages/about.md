@@ -36,12 +36,12 @@ The names of the students in my lab are <ins>underlined</ins>.
 
 **\[MICRO 2025\]** **<font color="#0081ff"> Efficient Security Support for CXL Memory through Adaptive Incremental Offloaded (Re-)Encryption</font>**; <br>
 <ins>Chuanhan Li</ins>, Jishen Zhao, **Yuanchao Xu** <br>
-The 58th International Symposium on Microarchitecture (**MICRO**), 2025. <br>
+The 58th International Symposium on Microarchitecture (**MICRO**), 2025. Acceptance rate: 20.77%<br>
 to appear
 
 **\[MICRO 2025\]** **<font color="#0081ff"> Security and Performance Implications of GPU Cache Eviction Priority Hints</font>**; <br>
 <ins>Qizhong Wang</ins>, <ins>Xiangyue Huang</ins>, Yanan Guo, **Yuanchao Xu**; <br>
-The 58th International Symposium on Microarchitecture (**MICRO**), 2025. <br>
+The 58th International Symposium on Microarchitecture (**MICRO**), 2025. Acceptance rate: 20.77%<br>
 to appear
 
 **\[HPDC 2025\]** **<font color="#0081ff"> FluidFaaS: A Dynamic Pipelined Solution for Serverless Computing with Strong Isolation-based GPU Sharing</font>**; <br>
@@ -51,9 +51,8 @@ to appear
 
 **\[SIGMETRICS 2025\]** **<font color="#0081ff"> Exploring Function Granularity for Serverless Machine Learning Application with GPU Sharing</font>**; <br>
 Xinning Hui, **Yuanchao Xu**, and Xipeng Shen; <br>
-The 2025 ACM on Measurement and Analysis of Computing Systems (**SIGMETRICS**), 2025. <br>
+The 2025 ACM on Measurement and Analysis of Computing Systems (**SIGMETRICS**), 2025. Acceptance rate: 18.18% <br>
 to appear
-
 
 **\[VLDB 2025\]** **<font color="#0081ff"> Outback: Fast and Communication-efficient Index for Key-Value Store on Disaggregated Memory</font>**; <br>
 Yi Liu, Minghao Xie, Shouqian Shi, **Yuanchao Xu**, Heiner Litz, Chen Qian; <br>
@@ -62,13 +61,13 @@ to appear
 
 **\[HPDC 2024\]** **<font color="#0081ff"> ESG: Pipeline-Conscious Efficient Scheduling of DNN Workflows on Serverless Platforms with Shareable GPUs</font>**; <br>
 Xinning Hui, **Yuanchao Xu**, Zhishan Guo, and Xipeng Shen; <br>
-The 33rd International Symposium on High-Performance Parallel and Distributed Computing (**HPDC**), 2024. <br>
+The 33rd International Symposium on High-Performance Parallel and Distributed Computing (**HPDC**), 2024. Acceptance rate: 17.33% <br>
 to appear
 
 **\[HPCA 2024\]** **<font color="#0081ff"> Data Enclave: A Data-Centric Trusted Execution Environment</font>**; <br>
 **Yuanchao Xu**, James Pangia, Chencheng Ye, Yan Solihin, and Xipeng Shen; <br>
-The 30th International Symposium on High-Performance Computer Architecture (**HPCA**), 2024. <br>
-to appear
+The 30th International Symposium on High-Performance Computer Architecture (**HPCA**), 2024. Acceptance rate: 18.29% <br>
+[<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/HPCA2024_DataEnclave.pdf)
 
 
 **\[ASPLOS 2023\]** **<font color="#0081ff"> SpecPMT: Speculative Logging for Resolving Crash Consistency
