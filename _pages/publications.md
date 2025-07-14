@@ -7,6 +7,18 @@ author_profile: true
 
 Conference
 ======
+The names of the students in my lab are <ins>underlined</ins>.
+
+**\[MICRO 2025\]** **<font color="#0081ff"> Efficient Security Support for CXL Memory through Adaptive Incremental Offloaded (Re-)Encryption</font>**; <br>
+<ins>Chuanhan Li</ins>, Jishen Zhao, **Yuanchao Xu** <br>
+The 58th International Symposium on Microarchitecture (**MICRO**), 2025. <br>
+to appear
+
+**\[MICRO 2025\]** **<font color="#0081ff"> Security and Performance Implications of GPU Cache Eviction Priority Hints</font>**; <br>
+<ins>Qizhong Wang</ins>, <ins>Xiangyue Huang</ins>, Yanan Guo, **Yuanchao Xu**; <br>
+The 58th International Symposium on Microarchitecture (**MICRO**), 2025. <br>
+to appear
+
 **\[HPDC 2025\]** **<font color="#0081ff"> FluidFaaS: A Dynamic Pipelined Solution for Serverless Computing with Strong Isolation-based GPU Sharing</font>**; <br>
 Xinning Hui, **Yuanchao Xu**, and Xipeng Shen; <br>
 The 34th International Symposium on High-Performance Parallel and Distributed Computing (**HPDC**), 2025. <br>

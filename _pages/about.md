@@ -21,7 +21,7 @@ My research interests are in computer architecture, security, and ML systems and
 News
 =====
 
-
+Two papers have been accepted by [<font color="#0081ff">MICRO 2025</font>](https://microarch.org/micro58/). Congratulations to Chuanhan, Qizhong, and Xiangyue!
 
 Our research about ML inference on serverless computing has been accepted by [<font color="#0081ff">HPDC 2025</font>](https://hpdc.sci.utah.edu/2025/)
 
@@ -29,34 +29,20 @@ Our research about ML inference on serverless computing has been accepted by [<f
 
 Our research about disaggregated memory key-value stores has been accepted by [<font color="#0081ff">VLDB 2025</font>](https://vldb.org/2025/).
 
-Our research about system-on-chip security has been accepted by [<font color="#0081ff">DATE 2025</font>](https://www.date-conference.com/)
-
-Serving as the program committee for [<font color="#0081ff">ISCA 2025</font>](https://iscaconf.org/isca2025/).
-
-Our research about ML inference on serverless computing has been accpeted by [<font color="#0081ff">HPDC 2024</font>](https://www.hpdc.org/2024/)
-
-Our research about system-on-chip security has been awarded by NSF. Thank you for your support, NSF!
-
-Serving as the program committee for [<font color="#0081ff">MICRO 2024</font>](https://microarch.org/micro57/).
-
-Received the 2024 [<font color="#0081ff">Outstanding Dissertation Award</font>](https://www.csc.ncsu.edu/academics/graduate/graduate_awards.php) from NCSU for my Ph.D. Thesis on "Data-Centric Architecture Support for Security". 
-
-Serving as the program committee for [<font color="#0081ff">ASPLOS 2025</font>](https://www.asplos-conference.org/asplos-2025-call-for-papers/).
-
-Serving as the organization committee for [<font color="#0081ff">HPCA 2025</font>](https://hpca-conf.org/2025/).
-
-Our research about trusted execution environments has been accepted by [<font color="#0081ff">HPCA 2024</font>](https://hpca-conf.org/2024/).
-
-<!--
-
-Serving as the program committee for ISPASS 2024.
-
-Serving as the Registration Chair for [<font color="#0081ff">ISCA 2023</font>](https://iscaconf.org/isca2023/). Please consider attending!
-Text-->
 
 Selected Publications [<font color="#0081ff">(full list)</font>](https://yuanchaoxu6.github.io/publications/)
 ======
 The names of the students in my lab are <ins>underlined</ins>.
+
+**\[MICRO 2025\]** **<font color="#0081ff"> Efficient Security Support for CXL Memory through Adaptive Incremental Offloaded (Re-)Encryption</font>**; <br>
+<ins>Chuanhan Li</ins>, Jishen Zhao, **Yuanchao Xu** <br>
+The 58th International Symposium on Microarchitecture (**MICRO**), 2025. <br>
+to appear
+
+**\[MICRO 2025\]** **<font color="#0081ff"> Security and Performance Implications of GPU Cache Eviction Priority Hints</font>**; <br>
+<ins>Qizhong Wang</ins>, <ins>Xiangyue Huang</ins>, Yanan Guo, **Yuanchao Xu**; <br>
+The 58th International Symposium on Microarchitecture (**MICRO**), 2025. <br>
+to appear
 
 **\[HPDC 2025\]** **<font color="#0081ff"> FluidFaaS: A Dynamic Pipelined Solution for Serverless Computing with Strong Isolation-based GPU Sharing</font>**; <br>
 Xinning Hui, **Yuanchao Xu**, and Xipeng Shen; <br>
@@ -137,3 +123,32 @@ The 47th International Symposium on Computer Architecture (**ISCA**), 2020. <br>
 **Yuanchao Xu**, Yan Solihin, and Xipeng Shen; <br>
 The 25th ACM International Conference on Architecture Support for Programming Languages and Operating Systems (**ASPLOS**), 2020. <br>
 [<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/asplos20.pdf)[<font color="#0081ff">[Slides]</font>](http://yuanchaoxu6.github.io/files/ASPLOS2020MERR.pdf)[<font color="#0081ff">[Video]</font>](https://www.youtube.com/watch?v=96OUTHkBdY0&list=PLsLWHLZB96VeVp3IVzvSH58ttVz_Anr7H&index=65)
+
+
+<!--
+
+Our research about system-on-chip security has been accepted by [<font color="#0081ff">DATE 2025</font>](https://www.date-conference.com/)
+
+Serving as the program committee for [<font color="#0081ff">ISCA 2025</font>](https://iscaconf.org/isca2025/).
+
+Our research about ML inference on serverless computing has been accpeted by [<font color="#0081ff">HPDC 2024</font>](https://www.hpdc.org/2024/)
+
+Our research about system-on-chip security has been awarded by NSF. Thank you for your support, NSF!
+
+Serving as the program committee for [<font color="#0081ff">MICRO 2024</font>](https://microarch.org/micro57/).
+
+Received the 2024 [<font color="#0081ff">Outstanding Dissertation Award</font>](https://www.csc.ncsu.edu/academics/graduate/graduate_awards.php) from NCSU for my Ph.D. Thesis on "Data-Centric Architecture Support for Security". 
+
+Serving as the program committee for [<font color="#0081ff">ASPLOS 2025</font>](https://www.asplos-conference.org/asplos-2025-call-for-papers/).
+
+Serving as the organization committee for [<font color="#0081ff">HPCA 2025</font>](https://hpca-conf.org/2025/).
+
+Our research about trusted execution environments has been accepted by [<font color="#0081ff">HPCA 2024</font>](https://hpca-conf.org/2024/).
+
+Serving as the program committee for ISPASS 2024.
+
+Serving as the Registration Chair for [<font color="#0081ff">ISCA 2023</font>](https://iscaconf.org/isca2023/). Please consider attending!
+
+
+
+Text-->
