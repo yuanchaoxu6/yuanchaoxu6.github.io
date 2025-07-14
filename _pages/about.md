@@ -21,7 +21,7 @@ My research interests are in computer architecture, security, and ML systems and
 News
 =====
 
-Two papers have been
+
 
 Our research about ML inference on serverless computing has been accepted by [<font color="#0081ff">HPDC 2025</font>](https://hpdc.sci.utah.edu/2025/)
 
@@ -56,7 +56,7 @@ Text-->
 
 Selected Publications [<font color="#0081ff">(full list)</font>](https://yuanchaoxu6.github.io/publications/)
 ======
-The names of the students in my lab are underlined.
+The names of the students in my lab are <ins>underlined</ins>.
 
 **\[HPDC 2025\]** **<font color="#0081ff"> FluidFaaS: A Dynamic Pipelined Solution for Serverless Computing with Strong Isolation-based GPU Sharing</font>**; <br>
 Xinning Hui, **Yuanchao Xu**, and Xipeng Shen; <br>
