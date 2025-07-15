@@ -21,13 +21,13 @@ My research interests are in computer architecture, security, and ML systems and
 News
 =====
 
-Two papers have been accepted by [<font color="#0081ff">MICRO 2025</font>](https://microarch.org/micro58/). Congratulations to Chuanhan, Qizhong, and Xiangyue!
+Two papers are accepted by [<font color="#0081ff">MICRO 2025</font>](https://microarch.org/micro58/). Congratulations to Chuanhan, Qizhong, and Xiangyue!
 
-Our research about ML inference on serverless computing has been accepted by [<font color="#0081ff">HPDC 2025</font>](https://hpdc.sci.utah.edu/2025/)
+Our research about ML inference on serverless computing is accepted by [<font color="#0081ff">HPDC 2025</font>](https://hpdc.sci.utah.edu/2025/)
 
-Our research about ML inference on serverless computing has been accepted by [<font color="#0081ff">SIGMETRICS 2025</font>](https://www.sigmetrics.org/sigmetrics2025/)
+Our research about ML inference on serverless computing is accepted by [<font color="#0081ff">SIGMETRICS 2025</font>](https://www.sigmetrics.org/sigmetrics2025/)
 
-Our research about disaggregated memory key-value stores has been accepted by [<font color="#0081ff">VLDB 2025</font>](https://vldb.org/2025/).
+Our research about disaggregated memory key-value stores is accepted by [<font color="#0081ff">VLDB 2025</font>](https://vldb.org/2025/).
 
 
 Selected Publications [<font color="#0081ff">(full list)</font>](https://yuanchaoxu6.github.io/publications/)
