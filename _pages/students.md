@@ -25,6 +25,12 @@ author_profile: true
 
 - Topic: CXL security
 
+### Qizhong Wang (PhD 2024-)
+
+- BS: HUST
+
+- Topic: GPU security
+
 ### Yuxin Yang (PhD 2025-)
 
 - Glen Langdon Fellowship
