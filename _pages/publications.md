@@ -11,17 +11,17 @@ The names of the students in my lab are <ins>underlined</ins>.
 
 **\[ASPLOS 2026\]** **<font color="#0081ff"> PIPM: Partial and Incremental Page Migration for Multi-host CXL Disaggregated Shared Memory</font>**; <br>
 <ins>Gangqi Huang</ins>, Heiner Litz, **Yuanchao Xu** <br>
-The 31st ACM International Conference on Architecture Support for Programming Languages and Operating Systems (**ASPLOS**), 2026. Acceptance rate: 10.60%<br>
+The 31st ACM International Conference on Architecture Support for Programming Languages and Operating Systems (**ASPLOS**), 2026. Acceptance rate: 89/840=10.60%<br>
 to appear
 
 **\[MICRO 2025\]** **<font color="#0081ff"> Efficient Security Support for CXL Memory through Adaptive Incremental Offloaded (Re-)Encryption</font>**; <br>
 <ins>Chuanhan Li</ins>, Jishen Zhao, **Yuanchao Xu** <br>
-The 58th International Symposium on Microarchitecture (**MICRO**), 2025. Acceptance rate: 20.77%<br>
+The 58th International Symposium on Microarchitecture (**MICRO**), 2025. Acceptance rate: 124/597=20.77%<br>
 to appear
 
 **\[MICRO 2025\]** **<font color="#0081ff"> Security and Performance Implications of GPU Cache Eviction Priority Hints</font>**; <br>
 <ins>Qizhong Wang</ins>, <ins>Xiangyue Huang</ins>, Yanan Guo, **Yuanchao Xu**; <br>
-The 58th International Symposium on Microarchitecture (**MICRO**), 2025. Acceptance rate: 20.77%<br>
+The 58th International Symposium on Microarchitecture (**MICRO**), 2025. Acceptance rate: 124/597=20.77%<br>
 to appear
 
 **\[HPDC 2025\]** **<font color="#0081ff"> FluidFaaS: A Dynamic Pipelined Solution for Serverless Computing with Strong Isolation-based GPU Sharing</font>**; <br>
