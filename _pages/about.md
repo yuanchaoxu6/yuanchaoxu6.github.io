@@ -21,6 +21,8 @@ My research interests are in computer architecture, security, and ML systems and
 News
 =====
 
+One paper is accepted by ASPLOS 2026 [<font color="#0081ff">ASPLOS 2026</font>](https://www.asplos-conference.org/asplos2026/). Thanks for all collaborators!
+
 One paper is accepted with shepherding by [<font color="#0081ff">ASPLOS 2026</font>](https://www.asplos-conference.org/asplos2026/). Congratulations to Gangqi!
 
 Two papers are accepted by [<font color="#0081ff">MICRO 2025</font>](https://microarch.org/micro58/). Congratulations to Chuanhan, Qizhong, and Xiangyue!
@@ -35,6 +37,11 @@ Our research about disaggregated memory key-value stores is accepted by [<font c
 Selected Publications [<font color="#0081ff">(full list)</font>](https://yuanchaoxu6.github.io/publications/)
 ======
 The names of the students in my lab are <ins>underlined</ins>.
+
+**\[ASPLOS 2026\]** **<font color="#0081ff"> CPU-Oblivious Offloading of Failure-Atomic Transactions for Disaggregated Memory</font>**; <br>
+Cheng Chen, Chencheng Ye, **Yuanchao Xu**, Xipeng Shen, Xiaofei Liao, Hai Jin, Wenbin Jiang, Yan Solihin<br>
+The 31st ACM International Conference on Architecture Support for Programming Languages and Operating Systems (**ASPLOS**), 2026. Acceptance rate: 89/840=10.60%<br>
+to appear
 
 **\[ASPLOS 2026\]** **<font color="#0081ff"> PIPM: Partial and Incremental Page Migration for Multi-host CXL Disaggregated Shared Memory</font>**; <br>
 <ins>Gangqi Huang</ins>, Heiner Litz, **Yuanchao Xu** <br>
