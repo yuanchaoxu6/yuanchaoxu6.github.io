@@ -25,39 +25,25 @@ author_profile: true
 
 - Topic: CXL security
 
-### Qizhong Wang (PhD 2024-)
-
-- BS: HUST
-
-- Topic: GPU security
-
 ### Yuxin Yang (PhD 2025-)
 
 - Glen Langdon Fellowship
 
 - MS: HUST, BS: HUST
 
-- Topic: 
+- Topic: CXL security
 
 
 
-## Undergraduates
+## Alumni
 
-### Larry Balagula
+### Bill Mularski (Undergrad, 2025 Winter - 2025 Fall)
 
-### Devavrat Joshi
+### Qizhong Wang (MS, 2024 Fall - 2025 Fall)
 
-### Sriya Katreddi
+### Larry Balagula (2024 Fall - 2025 Winter)
 
-### Jason Mack
+### Devavrat Joshi (Undergrad, 2023 Fall - 2024 Fall)
 
+### Jason Mack (Undergrad, 2023 Fall - 2024 Fall)
 
-
-
-
-
-
-
-
-
- 
