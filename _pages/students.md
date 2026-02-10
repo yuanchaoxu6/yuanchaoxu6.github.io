@@ -41,7 +41,7 @@ author_profile: true
 
 ### Qizhong Wang (MS, 2024 Fall - 2025 Fall)
 
-### Larry Balagula (2024 Fall - 2025 Winter)
+### Larry Balagula (Undergrad, 2024 Fall - 2025 Winter)
 
 ### Devavrat Joshi (Undergrad, 2023 Fall - 2024 Fall)
 
