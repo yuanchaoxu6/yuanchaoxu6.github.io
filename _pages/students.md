@@ -33,13 +33,19 @@ author_profile: true
 
 - Topic: CXL security
 
+### Rithik Sharma (PhD 2022-, co-advised with Tyler Sorensen)
+
+### Allen Aboytes (PhD 2023-, co-advised with Pankaj Mehra)
+
+- MS: UCSC, BS: UCSC
+
 
 
 ## Alumni
 
-### Bill Mularski (Undergrad, 2025 Winter - 2025 Fall)
-
 ### Qizhong Wang (MS, 2024 Fall - 2025 Fall)
+
+### Bill Mularski (Undergrad, 2025 Winter - 2025 Fall)
 
 ### Larry Balagula (Undergrad, 2024 Fall - 2025 Winter)
 
