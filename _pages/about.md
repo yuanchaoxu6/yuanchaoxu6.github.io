@@ -21,8 +21,6 @@
   News
   =====
 
-  * Honored to receive the prestigious **NSF CAREER Award**! Grateful to the **NSF** for their support!
-
   * One paper is accepted by [<font color="#0081ff">ASPLOS 2026</font>](https://www.asplos-conference.org/asplos2026/). Thanks for all collaborators!
 
   * One paper is accepted with shepherding by [<font color="#0081ff">ASPLOS 2026</font>](https://www.asplos-conference.org/asplos2026/). Congratulations to Gangqi!
