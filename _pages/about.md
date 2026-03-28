@@ -21,7 +21,7 @@ My research interests are in computer architecture, security, and ML systems and
 News
 =====
 
-<div markdown="1" style="width: 100%; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
+<div markdown="1" style="width: 100%; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 1px;">
   * Honored to receive the prestigious **NSF CAREER Award**! Grateful to the **NSF** for their support! <br>
   * One paper is accepted by [<font color="#0081ff">ASPLOS 2026</font>](https://www.asplos-conference.org/asplos2026/). Thanks for all collaborators! <br>
   * One paper is accepted with shepherding by [<font color="#0081ff">ASPLOS 2026</font>](https://www.asplos-conference.org/asplos2026/). Congratulations to Gangqi! <br>
@@ -33,6 +33,11 @@ News
 Selected Publications [<font color="#0081ff">(full list)</font>](https://yuanchaoxu6.github.io/publications/)
 ======
 The names of the students in my lab are <ins>underlined</ins>.
+
+**\[ISCA 2026\]** **<font color="#0081ff"> LIBRA: A High-Accuracy, Cost-Aware, and Coordinated Multi-GPU Page Prefetcher</font>**; <br>
+Cheng Chen, Chencheng Ye, **Yuanchao Xu**, Xipeng Shen, Xiaofei Liao, Hai Jin, Wenbin Jiang, Yan Solihin<br>
+The 53rd International Symposium on Computer Architecture (**ISCA**), 2026. <br>
+to appear
 
 **\[ASPLOS 2026\]** **<font color="#0081ff"> CPU-Oblivious Offloading of Failure-Atomic Transactions for Disaggregated Memory</font>**; <br>
 Cheng Chen, Chencheng Ye, **Yuanchao Xu**, Xipeng Shen, Xiaofei Liao, Hai Jin, Wenbin Jiang, Yan Solihin<br>
