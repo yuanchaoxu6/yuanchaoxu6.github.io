@@ -38,7 +38,7 @@ Recent Publications [<font color="#0081ff">(full list)</font>](https://yuanchaox
 ======
 The names of the students in my lab are <ins>underlined</ins>.
 
-<div style="margin-left: 20px; text-indent: -20px;">
+<div markdown="1" style="margin-left: 20px; text-indent: -20px;">
 
 **[ISCA 2026]** **<font color="#0081ff"> LIBRA: A High-Accuracy, Cost-Aware, and Coordinated Multi-GPU Page Prefetcher</font>**; <br>
 <ins>Xiangyue Huang</ins>, Yanan Guo, **Yuanchao Xu**<br>
