@@ -72,7 +72,7 @@ The names of the students in my lab are <ins>underlined</ins>.
 - **[ISCA 2022]** **<font color="#0081ff">FFCCD: Fence-Free Crash-Consistent Concurrent Defragmentation for Persistent Memory</font>**  
   **Yuanchao Xu**, Chencheng Ye, Yan Solihin, Xipeng Shen  
   The 49th International Symposium on Computer Architecture (**ISCA**), 2022  
-  [<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/ISCA22.pdf)  
+  [<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/ISCA22.pdf) 
   [<font color="#0081ff">[Slides]</font>](http://yuanchaoxu6.github.io/files/ISCA2022_FFCCD.pdf)
 
 - **[HPCA 2022]** **<font color="#0081ff">Temporal Exposure Reduction Protection for Persistent Memory</font>**  
@@ -89,7 +89,7 @@ The names of the students in my lab are <ins>underlined</ins>.
 - **[MICRO 2021]** **<font color="#0081ff">PCCS: Processor-Centric Contention Slowdown Model for Heterogeneous System-on-Chips</font>**  
   **Yuanchao Xu**, Mehmet Esat Belviranli, Xipeng Shen, Jeffrey Vetter  
   The 54th International Symposium on Microarchitecture (**MICRO**), 2021  
-  [<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/MICRO2021.pdf)  
+  [<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/MICRO2021.pdf) 
   [<font color="#0081ff">[Slides]</font>](http://yuanchaoxu6.github.io/files/MICRO2021_PCCS.pdf)
 
 - **[ICDM 2021]** **<font color="#0081ff">Recurrent Neural Networks Meet Context-Free Grammar: Two Birds with One Stone</font>**  
@@ -116,37 +116,6 @@ The names of the students in my lab are <ins>underlined</ins>.
 - **[ISCA 2020]** **<font color="#0081ff">Hardware-Based Domain Virtualization for Intra-Process Isolation of Persistent Memory Objects</font>**  
   **Yuanchao Xu**, Chencheng Ye, Yan Solihin, Xipeng Shen  
   The 47th International Symposium on Computer Architecture (**ISCA**), 2020  
-  [<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/isca20.pdf)  
-  [<font color="#0081ff">[Slides]</font>](http://yuanchaoxu6.github.io/files/ISCA2020MPKVirtualization.pdf)
-
-- **[ASPLOS 2020]** **<font color="#0081ff">MERR: Improving Security of Persistent Memory Objects via Efficient Memory Exposure Reduction and Randomization</font>**  
-  **Yuanchao Xu**, Yan Solihin, Xipeng Shen  
-  ASPLOS 2020  
-  [<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/asplos20.pdf)  
-  [<font color="#0081ff">[Slides]</font>](http://yuanchaoxu6.github.io/files/ASPLOS2020MERR.pdf)  
-  [<font color="#0081ff">[Video]</font>](https://www.youtube.com/watch?v=96OUTHkBdY0)
-
-- **[ISCA 2022]** **<font color="#0081ff">FFCCD: Fence-Free Crash-Consistent Concurrent Defragmentation for Persistent Memory</font>**  
-  **Yuanchao Xu**, Chencheng Ye, Yan Solihin, Xipeng Shen  
-  The 49th International Symposium on Computer Architecture (**ISCA**), 2022  
-  [<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/ISCA22.pdf) 
-  [<font color="#0081ff">[Slides]</font>](http://yuanchaoxu6.github.io/files/ISCA2022_FFCCD.pdf)
-
-- **[HPCA 2022]** **<font color="#0081ff">Temporal Exposure Reduction Protection for Persistent Memory</font>**  
-  **Yuanchao Xu**, Chencheng Ye, Xipeng Shen, Yan Solihin  
-  The 28th International Symposium on High-Performance Computer Architecture (**HPCA**), 2022  
-  [<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/HPCA22.pdf) 
-  [<font color="#0081ff">[Slides]</font>](http://yuanchaoxu6.github.io/files/HPCA22_TERP.pdf)
-
-- **[MICRO 2021]** **<font color="#0081ff">PCCS: Processor-Centric Contention Slowdown Model for Heterogeneous System-on-Chips</font>**  
-  **Yuanchao Xu**, Mehmet Esat Belviranli, Xipeng Shen, Jeffrey Vetter  
-  The 54th International Symposium on Microarchitecture (**MICRO**), 2021  
-  [<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/MICRO2021.pdf) 
-  [<font color="#0081ff">[Slides]</font>](http://yuanchaoxu6.github.io/files/MICRO2021_PCCS.pdf)
-
-- **[ISCA 2020]** **<font color="#0081ff">Hardware-Based Domain Virtualization for Intra-Process Isolation of Persistent Memory Objects</font>**  
-  **Yuanchao Xu**, Chencheng Ye, Yan Solihin, Xipeng Shen  
-  The 47th International Symposium on Computer Architecture (**ISCA**), 2020  
   [<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/isca20.pdf) 
   [<font color="#0081ff">[Slides]</font>](http://yuanchaoxu6.github.io/files/ISCA2020MPKVirtualization.pdf)
 
@@ -156,9 +125,6 @@ The names of the students in my lab are <ins>underlined</ins>.
   [<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/asplos20.pdf) 
   [<font color="#0081ff">[Slides]</font>](http://yuanchaoxu6.github.io/files/ASPLOS2020MERR.pdf) 
   [<font color="#0081ff">[Video]</font>](https://www.youtube.com/watch?v=96OUTHkBdY0)
-
-
-
 
 - **[IPDPS 2018]** **<font color="#0081ff">Taming the "Monster": Overcoming Program Optimization Challenges on SW26010 Through Precise Performance Modeling</font>**  
   Shizhen Xu, **Yuanchao Xu**, Wei Xue, Xipeng Shen, Xiaomeng Huang, Guangwen Yang  
