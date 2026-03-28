@@ -101,7 +101,7 @@ The names of the students in my lab are <ins>underlined</ins>.
 Services
 =====
 
-## Program Committee
+## Program Committees
 
 - **ISCA** — 2025, 2026  
 - **MICRO** — 2024, 2025, 2026 
@@ -109,11 +109,11 @@ Services
 - **HPCA** — 2025
 - **ISPAAS** - 2025, 2026  
 
-## Conference Organization Committee
+## Organizing Committees
 
-- **ISCA** — 2023, 2026
-- **HPCA** - 2025   
-- **PACT** — 2026
+- **ISCA** — 2023 (Regiseration Chair), 2026 (Finance Co-Chair)
+- **HPCA** - 2025 (Finance Chair)
+- **PACT** — 2026 (Workshop Co-Chair)
 
 
 <!--
