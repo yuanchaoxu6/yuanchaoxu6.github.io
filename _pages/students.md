@@ -19,9 +19,12 @@ author_profile: true
 - <a href="https://yux20000304.github.io/" style="color:#0081ff; text-decoration:none;"><strong>Yuxin Yang</strong></a> *(PhD, 2025– )*, Glen Langdon Fellow  
   MS: HUST · BS: HUST · Topic: CXL security  
 
-- **Rithik Sharma** *(PhD, 2022– )*, co-advisee, Primary advisor: Tyler Sorensen
+- <a href="https://crescentweiss.github.io/jerryyu7.github.io/" style="color:#0081ff; text-decoration:none;"><strong>Zihao Yu</strong></a> *(PhD, 2026– )*  
+  MS: UCAS · BS: USTC · Topic: TBD  
 
-- **Allen Aboytes** *(PhD, 2023– )*, co-advisee, Primary advisor: Pankaj Mehra  
+- **Rithik Sharma** *(PhD, 2022– )*, Co-advisee, Primary advisor: Tyler Sorensen
+
+- **Allen Aboytes** *(PhD, 2023– )*, Co-advisee, Primary advisor: Pankaj Mehra  
   MS: UCSC · BS: UCSC  
 
 
