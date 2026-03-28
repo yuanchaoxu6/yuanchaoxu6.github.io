@@ -5,51 +5,34 @@ permalink: /students/
 author_profile: true
 ---
 
-## PhD students
+## PhD Students
 
-### Gangqi Huang (PhD 2024-) (co-advised with Heiner Litz)
+- **[Gangqi Huang](https://ghuang14.github.io/)** *(PhD, 2024– )*, Co-advised with Heiner Litz  
+  BS: HUST · Topic: CXL performance and correctness  
 
-- BS: HUST
+- **Xiangyue Huang** *(PhD, 2024– )*  
+  BS: Wuhan University · Topic: CXL and GPU architecture  
 
-- Topic: CXL performance and correctness
+- **Chuanhan Li** *(PhD, 2024– )*  
+  MS: HUST · BS: Hunan University · Topic: CXL security  
 
-### Xiangyue Huang (PhD 2024-)
+- **[Yuxin Yang](https://yux20000304.github.io/)** *(PhD, 2025– )*, Glen Langdon Fellow  
+  MS: HUST · BS: HUST · Topic: CXL security  
 
-- BS: Wuhan University
+- **Rithik Sharma** *(PhD, 2022– )*, Co-advised with Tyler Sorensen  
 
-- Topic: CXL and GPU architecture
-
-### Chuanhan Li (PhD 2024-)
-
-- MS: HUST, BS: Hunan University
-
-- Topic: CXL security
-
-### Yuxin Yang (PhD 2025-)
-
-- Glen Langdon Fellowship
-
-- MS: HUST, BS: HUST
-
-- Topic: CXL security
-
-### Rithik Sharma (PhD 2022-, co-advised with Tyler Sorensen)
-
-### Allen Aboytes (PhD 2023-, co-advised with Pankaj Mehra)
-
-- MS: UCSC, BS: UCSC
-
+- **Allen Aboytes** *(PhD, 2023– )*, Co-advised with Pankaj Mehra  
+  MS: UCSC · BS: UCSC  
 
 
 ## Alumni
 
-### Qizhong Wang (MS, 2024 Fall - 2025 Fall)
+- **Qizhong Wang** *(MS, Fall 2024 – Fall 2025)*
 
-### Bill Mularski (Undergrad, 2025 Winter - 2025 Fall)
+- **Bill Mularski** *(Undergrad, Winter 2025 – Fall 2025)*
 
-### Larry Balagula (Undergrad, 2024 Fall - 2025 Winter)
+- **Larry Balagula** *(Undergrad, Fall 2024 – Winter 2025)*
 
-### Devavrat Joshi (Undergrad, 2023 Fall - 2024 Fall)
+- **Devavrat Joshi** *(Undergrad, Fall 2023 – Fall 2024)*
 
-### Jason Mack (Undergrad, 2023 Fall - 2024 Fall)
-
+- **Jason Mack** *(Undergrad, Fall 2023 – Fall 2024)*
