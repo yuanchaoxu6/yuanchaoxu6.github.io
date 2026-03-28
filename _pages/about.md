@@ -21,13 +21,13 @@ My research interests are in computer architecture, security, and ML systems and
 News
 =====
 
-<div markdown="1" style="width: 100%; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 1px;">
-  * Honored to receive the prestigious **NSF CAREER Award**! Grateful to the **NSF** for their support! <br>
-  * One paper is accepted by [<font color="#0081ff">ASPLOS 2026</font>](https://www.asplos-conference.org/asplos2026/). Thanks for all collaborators! <br>
-  * One paper is accepted with shepherding by [<font color="#0081ff">ASPLOS 2026</font>](https://www.asplos-conference.org/asplos2026/). Congratulations to Gangqi! <br>
-  * Our research about ML inference on serverless computing is accepted by [<font color="#0081ff">HPDC 2025</font>](https://hpdc.sci.utah.edu/2025/) <br>
-  * Our research about ML inference on serverless computing is accepted by [<font color="#0081ff">SIGMETRICS 2025</font>](https://www.sigmetrics.org/sigmetrics2025/) <br>
-  * Our research about disaggregated memory key-value stores is accepted by [<font color="#0081ff">VLDB 2025</font>](https://vldb.org/2025/).
+<div markdown="1" style="width: 100%; height: 300px; overflow-y: scroll; margin: 0; padding: 0;">
+* Honored to receive the prestigious **NSF CAREER Award**! Grateful to the **NSF** for their support! <br>
+* One paper is accepted by [<font color="#0081ff">ASPLOS 2026</font>](https://www.asplos-conference.org/asplos2026/). Thanks for all collaborators! <br>
+* One paper is accepted with shepherding by [<font color="#0081ff">ASPLOS 2026</font>](https://www.asplos-conference.org/asplos2026/). Congratulations to Gangqi! <br>
+* Our research about ML inference on serverless computing is accepted by [<font color="#0081ff">HPDC 2025</font>](https://hpdc.sci.utah.edu/2025/) <br>
+* Our research about ML inference on serverless computing is accepted by [<font color="#0081ff">SIGMETRICS 2025</font>](https://www.sigmetrics.org/sigmetrics2025/) <br>
+* Our research about disaggregated memory key-value stores is accepted by [<font color="#0081ff">VLDB 2025</font>](https://vldb.org/2025/).
 </div>
 
 Selected Publications [<font color="#0081ff">(full list)</font>](https://yuanchaoxu6.github.io/publications/)
@@ -35,7 +35,7 @@ Selected Publications [<font color="#0081ff">(full list)</font>](https://yuancha
 The names of the students in my lab are <ins>underlined</ins>.
 
 **\[ISCA 2026\]** **<font color="#0081ff"> LIBRA: A High-Accuracy, Cost-Aware, and Coordinated Multi-GPU Page Prefetcher</font>**; <br>
-Xiangyue Huang, Yanan Guo, **Yuanchao Xu** <br>
+Xiangyue Huang, Yanan Guo, **Yuanchao Xu**<br>
 The 53rd International Symposium on Computer Architecture (**ISCA**), 2026. <br>
 to appear
 
