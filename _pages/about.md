@@ -87,6 +87,9 @@ The names of the students in my lab are <ins>underlined</ins>.
   **Yuanchao Xu**, James Pangia, Chencheng Ye, Yan Solihin, and Xipeng Shen  
   The 30th International Symposium on High-Performance Computer Architecture (**HPCA**), 2024. Acceptance rate: 18.29%  
   [<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/HPCA2024_DataEnclave.pdf)
+
+
+
 <!--
 
 Our research about system-on-chip security has been accepted by [<font color="#0081ff">DATE 2025</font>](https://www.date-conference.com/)
