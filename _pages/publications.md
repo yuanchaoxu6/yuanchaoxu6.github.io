@@ -9,45 +9,50 @@ Conference
 ======
 The names of the students in my lab are <ins>underlined</ins>.
 
-**\[ASPLOS 2026\]** **<font color="#0081ff"> CPU-Oblivious Offloading of Failure-Atomic Transactions for Disaggregated Memory</font>**; <br>
+**\[ISCA 2026\]** **<font color="#0081ff"> LIBRA: A High-Accuracy, Cost-Aware, and Coordinated Multi-GPU Page Prefetcher</font>**; <br>
+<ins>Xiangyue Huang</ins>, Yanan Guo, **Yuanchao Xu**<br>
+The 53rd International Symposium on Computer Architecture (**ISCA**), 2026. <br>
+to appear
+
+**[ASPLOS 2026]** **<font color="#0081ff"> CPU-Oblivious Offloading of Failure-Atomic Transactions for Disaggregated Memory</font>**; <br>
 Cheng Chen, Chencheng Ye, **Yuanchao Xu**, Xipeng Shen, Xiaofei Liao, Hai Jin, Wenbin Jiang, Yan Solihin<br>
 The 31st ACM International Conference on Architecture Support for Programming Languages and Operating Systems (**ASPLOS**), 2026. <br>
-to appear
+[<font color="#0081ff">[Paper]</font>](https://dl.acm.org/doi/10.1145/3779212.3790146)
 
-**\[ASPLOS 2026\]** **<font color="#0081ff"> PIPM: Partial and Incremental Page Migration for Multi-host CXL Disaggregated Shared Memory</font>**; <br>
+**[ASPLOS 2026]** **<font color="#0081ff"> PIPM: Partial and Incremental Page Migration for Multi-host CXL Disaggregated Shared Memory</font>**; <br>
 <ins>Gangqi Huang</ins>, Heiner Litz, **Yuanchao Xu** <br>
 The 31st ACM International Conference on Architecture Support for Programming Languages and Operating Systems (**ASPLOS**), 2026. Acceptance rate: 89/840=10.60%<br>
-to appear
+[<font color="#0081ff">[Paper]</font>](https://dl.acm.org/doi/10.1145/3779212.3790203)
 
-**\[MICRO 2025\]** **<font color="#0081ff"> Efficient Security Support for CXL Memory through Adaptive Incremental Offloaded (Re-)Encryption</font>**; <br>
+**[MICRO 2025]** **<font color="#0081ff"> Efficient Security Support for CXL Memory through Adaptive Incremental Offloaded (Re-)Encryption</font>**; <br>
 <ins>Chuanhan Li</ins>, Jishen Zhao, **Yuanchao Xu** <br>
 The 58th International Symposium on Microarchitecture (**MICRO**), 2025. Acceptance rate: 124/597=20.77%<br>
-to appear
+[<font color="#0081ff">[Paper]</font>](https://dl.acm.org/doi/10.1145/3725843.3756119)
 
-**\[MICRO 2025\]** **<font color="#0081ff"> Security and Performance Implications of GPU Cache Eviction Priority Hints</font>**; <br>
+**[MICRO 2025]** **<font color="#0081ff"> Security and Performance Implications of GPU Cache Eviction Priority Hints</font>**; <br>
 <ins>Qizhong Wang</ins>, <ins>Xiangyue Huang</ins>, Yanan Guo, **Yuanchao Xu**; <br>
 The 58th International Symposium on Microarchitecture (**MICRO**), 2025. Acceptance rate: 124/597=20.77%<br>
-to appear
+[<font color="#0081ff">[Paper]</font>](https://dl.acm.org/doi/10.1145/3725843.3756116)
 
-**\[HPDC 2025\]** **<font color="#0081ff"> FluidFaaS: A Dynamic Pipelined Solution for Serverless Computing with Strong Isolation-based GPU Sharing</font>**; <br>
+**[HPDC 2025]** **<font color="#0081ff"> FluidFaaS: A Dynamic Pipelined Solution for Serverless Computing with Strong Isolation-based GPU Sharing</font>**; <br>
 Xinning Hui, **Yuanchao Xu**, and Xipeng Shen; <br>
 The 34th International Symposium on High-Performance Parallel and Distributed Computing (**HPDC**), 2025. <br>
-to appear
+[<font color="#0081ff">[Paper]</font>](https://dl.acm.org/doi/10.1145/3731545.3731580)
 
-**\[SIGMETRICS 2025\]** **<font color="#0081ff"> Exploring Function Granularity for Serverless Machine Learning Application with GPU Sharing</font>**; <br>
+**[SIGMETRICS 2025]** **<font color="#0081ff"> Exploring Function Granularity for Serverless Machine Learning Application with GPU Sharing</font>**; <br>
 Xinning Hui, **Yuanchao Xu**, and Xipeng Shen; <br>
 The 2025 ACM on Measurement and Analysis of Computing Systems (**SIGMETRICS**), 2025. Acceptance rate: 18.18% <br>
-to appear
+[<font color="#0081ff">[Paper]</font>](https://dl.acm.org/doi/10.1145/3711699)
 
-**\[VLDB 2025\]** **<font color="#0081ff"> Outback: Fast and Communication-efficient Index for Key-Value Store on Disaggregated Memory</font>**; <br>
+**[VLDB 2025]** **<font color="#0081ff"> Outback: Fast and Communication-efficient Index for Key-Value Store on Disaggregated Memory</font>**; <br>
 Yi Liu, Minghao Xie, Shouqian Shi, **Yuanchao Xu**, Heiner Litz, Chen Qian; <br>
 The 51st International Conference on Very Large Data Bases (**VLDB**), 2025. <br>
-to appear
+[<font color="#0081ff">[Paper]</font>](https://dl.acm.org/doi/10.14778/3705829.3705849)
 
-**\[HPDC 2024\]** **<font color="#0081ff"> ESG: Pipeline-Conscious Efficient Scheduling of DNN Workflows on Serverless Platforms with Shareable GPUs</font>**; <br>
-Xinning Hui, **Yuanchao Xu**, Zhishan Guo, and Xipeng Shen; <br>
-The 33rd International Symposium on High-Performance Parallel and Distributed Computing (**HPDC**), 2024. Acceptance rate: 17.33% <br>
-to appear
+**\[HPDC 2024\]** **<font color="#0081ff"> ESG: Pipeline-Conscious Efficient Scheduling of DNN Workflows on Serverless Platforms with Shareable GPUs</font>**; <br> 
+Xinning Hui, **Yuanchao Xu**, Zhishan Guo, and Xipeng Shen; <br> 
+The 33rd International Symposium on High-Performance Parallel and Distributed Computing (**HPDC**), 2024. Acceptance rate: 17.33% <br> 
+[<font color="#0081ff">[Paper]</font>](https://dl.acm.org/doi/epdf/10.1145/3625549.3658657)
 
 **\[HPCA 2024\]** **<font color="#0081ff"> Data Enclave: A Data-Centric Trusted Execution Environment</font>**; <br>
 **Yuanchao Xu**, James Pangia, Chencheng Ye, Yan Solihin, and Xipeng Shen; <br>
