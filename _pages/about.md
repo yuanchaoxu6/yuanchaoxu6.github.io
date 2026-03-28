@@ -97,29 +97,3 @@ The names of the students in my lab are <ins>underlined</ins>.
   The 30th International Symposium on High-Performance Computer Architecture (**HPCA**), 2024. Acceptance rate: 18.29%  
   [<font color="#0081ff">[Paper]</font>](http://yuanchaoxu6.github.io/files/HPCA2024_DataEnclave.pdf)
 
-
-Services
-=====
-
-## Program Committees
-
-- **ISCA** — 2025, 2026  
-- **MICRO** — 2024, 2025, 2026 
-- **ASPLOS** — 2025, 2026   
-- **HPCA** — 2025
-- **ISPAAS** - 2025, 2026  
-
-## Organizing Committees
-
-- **ISCA** — 2023 (Regiseration Chair), 2026 (Finance Co-Chair)
-- **HPCA** - 2025 (Finance Chair)
-- **PACT** — 2026 (Workshop Co-Chair)
-
-
-<!--
-
-
-
-
-
-Text-->
