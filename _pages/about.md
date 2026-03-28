@@ -37,7 +37,6 @@ Our research about system-on-chip security has been accepted by [<font color="#0
 * Serving as the program committee for [<font color="#0081ff">MICRO 2024</font>](https://microarch.org/micro57/).
 * Received the 2024 [<font color="#0081ff">Outstanding Dissertation Award</font>](https://www.csc.ncsu.edu/academics/graduate/graduate_awards.php) from NCSU for my Ph.D. Thesis on "Data-Centric Architecture Support for Security". 
 * Serving as the program committee for [<font color="#0081ff">ASPLOS 2025</font>](https://www.asplos-conference.org/asplos-2025-call-for-papers/).
-* Serving as the organization committee for [<font color="#0081ff">HPCA 2025</font>](https://hpca-conf.org/2025/).
 * Our research about trusted execution environments has been accepted by [<font color="#0081ff">HPCA 2024</font>](https://hpca-conf.org/2024/).
 * Serving as the Registration Chair for [<font color="#0081ff">ISCA 2023</font>](https://iscaconf.org/isca2023/). Please consider attending!
 </div>
