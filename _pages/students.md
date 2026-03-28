@@ -7,16 +7,16 @@ author_profile: true
 
 ## PhD Students
 
-- <a href="https://ghuang14.github.io/" style="color:#0081ff; text-decoration:none;"><strong>Gangqi Huang</strong></a> *(PhD, 2024– )*, Co-advised with Heiner Litz  
+- <a href="https://ghuang14.github.io/" style="color:#0081ff; text-decoration:none;"><strong>Gangqi Huang</strong></a> *(PhD, 2024 Fall – )*, Co-advised with Heiner Litz  
   BS: HUST · Topic: CXL performance and GPU  
 
-- **Xiangyue Huang** *(PhD, 2024– )*  
+- **Xiangyue Huang** *(PhD, 2024 Fall – )*  
   BS: Wuhan University · Topic: GPU architecture  
 
-- **Chuanhan Li** *(PhD, 2024– )*  
+- **Chuanhan Li** *(PhD, 2024 Fall– )*  
   MS: HUST · BS: Hunan University · Topic: CXL security  
 
-- <a href="https://yux20000304.github.io/" style="color:#0081ff; text-decoration:none;"><strong>Yuxin Yang</strong></a> *(PhD, 2025– )*, Glen Langdon Fellow  
+- <a href="https://yux20000304.github.io/" style="color:#0081ff; text-decoration:none;"><strong>Yuxin Yang</strong></a> *(PhD, 2025 Fall– )*, Glen Langdon Fellow  
   MS: HUST · BS: HUST · Topic: CXL security  
 
 - <a href="https://crescentweiss.github.io/jerryyu7.github.io/" style="color:#0081ff; text-decoration:none;"><strong>Zihao Yu</strong></a> *(PhD, 2026– )*  
