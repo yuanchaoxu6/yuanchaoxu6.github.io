@@ -7,12 +7,14 @@ main:
   - title: "Publications"
     url: /publications/
     
+  - title: "Service"
+    url: /talks/
+
   - title: "Students"
     url: /students/
 
 
-  #- title: "Talks"
-  #  url: /talks/
+
 
 
 
