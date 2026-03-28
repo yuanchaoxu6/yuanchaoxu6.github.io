@@ -19,9 +19,9 @@ author_profile: true
 - <a href="https://yux20000304.github.io/" style="color:#0081ff; text-decoration:none;"><strong>Yuxin Yang</strong></a> *(PhD, 2025– )*, Glen Langdon Fellow  
   MS: HUST · BS: HUST · Topic: CXL security  
 
-- **Rithik Sharma** *(PhD, 2022– )*, Co-advised with Tyler Sorensen  
+- **Rithik Sharma** *(PhD, 2022– )*, co-advisee, Primary advisor: Tyler Sorensen
 
-- **Allen Aboytes** *(PhD, 2023– )*, Co-advised with Pankaj Mehra  
+- **Allen Aboytes** *(PhD, 2023– )*, co-advisee, Primary advisor: Pankaj Mehra  
   MS: UCSC · BS: UCSC  
 
 
