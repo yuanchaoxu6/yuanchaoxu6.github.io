@@ -7,7 +7,7 @@ author_profile: true
 
 ## PhD Students
 
-- **[Gangqi Huang](https://ghuang14.github.io/)** *(PhD, 2024– )*, Co-advised with Heiner Litz  
+- <a href="https://ghuang14.github.io/" style="color:#0081ff; text-decoration:none;"><strong>Gangqi Huang</strong></a> *(PhD, 2024– )*, Co-advised with Heiner Litz  
   BS: HUST · Topic: CXL performance and correctness  
 
 - **Xiangyue Huang** *(PhD, 2024– )*  
@@ -16,7 +16,7 @@ author_profile: true
 - **Chuanhan Li** *(PhD, 2024– )*  
   MS: HUST · BS: Hunan University · Topic: CXL security  
 
-- **[Yuxin Yang](https://yux20000304.github.io/)** *(PhD, 2025– )*, Glen Langdon Fellow  
+- <a href="https://yux20000304.github.io/" style="color:#0081ff; text-decoration:none;"><strong>Yuxin Yang</strong></a> *(PhD, 2025– )*, Glen Langdon Fellow  
   MS: HUST · BS: HUST · Topic: CXL security  
 
 - **Rithik Sharma** *(PhD, 2022– )*, Co-advised with Tyler Sorensen  
