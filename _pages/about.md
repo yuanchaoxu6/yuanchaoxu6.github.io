@@ -30,6 +30,16 @@ News
 * Our research about disaggregated memory key-value stores is accepted by [<font color="#0081ff">VLDB 2025</font>](https://vldb.org/2025/).
 
 
+<div style="width: 100%; height: 100px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
+  这是滚动区域的内容。<br>
+  你可以添加很多行...<br>
+  来测试垂直滚动条。<br>
+  内容越多，滚动条越明显。<br>
+  内容越多，滚动条越明显。<br>
+  内容越多，滚动条越明显。<br>
+  末尾内容。
+</div>
+
 Selected Publications [<font color="#0081ff">(full list)</font>](https://yuanchaoxu6.github.io/publications/)
 ======
 The names of the students in my lab are <ins>underlined</ins>.
