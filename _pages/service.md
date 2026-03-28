@@ -1,13 +1,10 @@
 ---
 layout: archive
-title: "Service"
+title: "Services"
 permalink: /service/
 author_profile: true
 ---
 
-
-Services
-=====
 
 ## Program Committees
 
