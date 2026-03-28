@@ -8,10 +8,10 @@ author_profile: true
 ## PhD Students
 
 - <a href="https://ghuang14.github.io/" style="color:#0081ff; text-decoration:none;"><strong>Gangqi Huang</strong></a> *(PhD, 2024– )*, Co-advised with Heiner Litz  
-  BS: HUST · Topic: CXL performance and correctness  
+  BS: HUST · Topic: CXL performance and GPU  
 
 - **Xiangyue Huang** *(PhD, 2024– )*  
-  BS: Wuhan University · Topic: CXL and GPU architecture  
+  BS: Wuhan University · Topic: GPU architecture  
 
 - **Chuanhan Li** *(PhD, 2024– )*  
   MS: HUST · BS: Hunan University · Topic: CXL security  
