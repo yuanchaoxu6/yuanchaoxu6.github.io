@@ -76,6 +76,11 @@ Yi Liu, Minghao Xie, Shouqian Shi, **Yuanchao Xu**, Heiner Litz, Chen Qian; <br>
 The 51st International Conference on Very Large Data Bases (**VLDB**), 2025. <br>
 [<font color="#0081ff">[Paper]</font>](https://dl.acm.org/doi/10.14778/3705829.3705849)
 
+**\[HPDC 2024\]** **<font color="#0081ff"> ESG: Pipeline-Conscious Efficient Scheduling of DNN Workflows on Serverless Platforms with Shareable GPUs</font>**; <br> 
+Xinning Hui, **Yuanchao Xu**, Zhishan Guo, and Xipeng Shen; <br> 
+The 33rd International Symposium on High-Performance Parallel and Distributed Computing (**HPDC**), 2024. Acceptance rate: 17.33% <br> 
+[<font color="#0081ff">[Paper]</font>](https://dl.acm.org/doi/epdf/10.1145/3625549.3658657)“
+
 **\[HPCA 2024\]** **<font color="#0081ff"> Data Enclave: A Data-Centric Trusted Execution Environment</font>**; <br>
 **Yuanchao Xu**, James Pangia, Chencheng Ye, Yan Solihin, and Xipeng Shen; <br>
 The 30th International Symposium on High-Performance Computer Architecture (**HPCA**), 2024. Acceptance rate: 18.29% <br>
