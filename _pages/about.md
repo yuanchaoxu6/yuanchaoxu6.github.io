@@ -35,7 +35,7 @@ Selected Publications [<font color="#0081ff">(full list)</font>](https://yuancha
 The names of the students in my lab are <ins>underlined</ins>.
 
 **\[ISCA 2026\]** **<font color="#0081ff"> LIBRA: A High-Accuracy, Cost-Aware, and Coordinated Multi-GPU Page Prefetcher</font>**; <br>
-Cheng Chen, Chencheng Ye, **Yuanchao Xu**, Xipeng Shen, Xiaofei Liao, Hai Jin, Wenbin Jiang, Yan Solihin<br>
+Xiangyue Huang, Yanan Guo, **Yuanchao Xu** <br>
 The 53rd International Symposium on Computer Architecture (**ISCA**), 2026. <br>
 to appear
 
