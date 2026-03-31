@@ -11,7 +11,10 @@ author_profile: true
 - **MICRO** 2024, 2025, 2026  
 - **ASPLOS** 2025, 2026, 2027 (ERC)  
 - **HPCA** 2025  
+- **ICS** 2025
+- **PPOPP** 2025, 2027
 - **ISPASS** 2025, 2026
+
 
 ## Organizing Committees
 
