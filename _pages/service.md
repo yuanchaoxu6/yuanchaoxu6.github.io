@@ -7,8 +7,8 @@ author_profile: true
 
 ## Program Committees
 
-- **ISCA** 2025, 2026  
-- **MICRO** 2024, 2025, 2026  
+- **ISCA** 2025, 2026 (LPC)
+- **MICRO** 2024, 2025, 2026 (LPC)
 - **ASPLOS** 2025, 2026, 2027 (ERC)  
 - **HPCA** 2025  
 - **ICS** 2025
