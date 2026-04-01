@@ -10,8 +10,8 @@ author_profile: true
 - <a href="https://ghuang14.github.io/" style="color:#0081ff; text-decoration:none;"><strong>Gangqi Huang</strong></a> *(PhD, 2024 Fall – )*, Co-advised with Heiner Litz  
   BS: HUST · Topic: CXL performance and GPU  
 
-- **Xiangyue Huang** *(PhD, 2024 Fall – )*  
-  BS: Wuhan University · Topic: GPU architecture  
+- <a href="https://ddantalion.github.io/" style="color:#0081ff; text-decoration:none;"><strong>Xiangyue Huang</strong></a> *(PhD, 2024 Fall – )*  
+  BS: Wuhan University · Topic: GPU architecture   
 
 - **Chuanhan Li** *(PhD, 2024 Fall– )*  
   MS: HUST · BS: Hunan University · Topic: CXL security  
