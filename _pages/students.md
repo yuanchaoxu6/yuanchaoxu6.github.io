@@ -13,9 +13,6 @@ author_profile: true
 - <a href="https://ddantalion.github.io/" style="color:#0081ff; text-decoration:none;"><strong>Xiangyue Huang</strong></a> *(PhD, 2024 Fall – )*  
   BS: Wuhan University · Topic: GPU architecture   
 
-- **Chuanhan Li** *(PhD, 2024 Fall– )*  
-  MS: HUST · BS: Hunan University · Topic: CXL security  
-
 - <a href="https://yux20000304.github.io/" style="color:#0081ff; text-decoration:none;"><strong>Yuxin Yang</strong></a> *(PhD, 2025 Fall– )*, Glen Langdon Fellow  
   MS: HUST · BS: HUST · Topic: CXL security  
 
