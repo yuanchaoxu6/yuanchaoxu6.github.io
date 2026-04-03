@@ -23,7 +23,7 @@ News
 
 <div markdown="1" style="width: 100%; height: 300px; overflow-y: scroll; margin: 0; padding: 0;">
 * One paper about multi-GPU page migration is accepted by [<font color="#0081ff">ISCA 2026</font>](https://iscaconf.org/isca2026/). Congratulations to Xiangyue and thanks for all collaborators!
-* Two papers are accepted with shepherding by [<font color="#0081ff">ISCA 2026</font>](https://iscaconf.org/isca2026/). Thanks for all collaborators!
+* Two papers are conditional accepted with shepherding by [<font color="#0081ff">ISCA 2026</font>](https://iscaconf.org/isca2026/). Thanks for all collaborators!
 * Honored to receive the prestigious **NSF CAREER Award**! Grateful to the **NSF** for their support! <br>
 * One paper is accepted by [<font color="#0081ff">ASPLOS 2026</font>](https://www.asplos-conference.org/asplos2026/). Thanks for all collaborators! <br>
 * One paper is accepted with shepherding by [<font color="#0081ff">ASPLOS 2026</font>](https://www.asplos-conference.org/asplos2026/). Congratulations to Gangqi! <br>
