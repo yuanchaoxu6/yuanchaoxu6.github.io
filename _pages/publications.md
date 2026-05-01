@@ -14,6 +14,11 @@ The names of the students in my lab are <ins>underlined</ins>.
   The 53rd International Symposium on Computer Architecture (**ISCA**), 2026.  
   to appear  
 
+  - **[ISCA 2026]** **<font color="#0081ff">FEnc2: Unifying Data Packing for Efficient Private Inference via Convolution and Architecture-Aware Fragment Encoding</font>**  
+  Ran Ran, Zhaoting Gong, Nuo Xu, **Yuanchao Xu**, Fan Yao, Wujie Wen  
+  The 53rd International Symposium on Computer Architecture (**ISCA**), 2026.  
+  to appear
+
 - **[ASPLOS 2026]** **<font color="#0081ff">CPU-Oblivious Offloading of Failure-Atomic Transactions for Disaggregated Memory</font>**  
   Cheng Chen, Chencheng Ye, **Yuanchao Xu**, Xipeng Shen, Xiaofei Liao, Hai Jin, Wenbin Jiang, Yan Solihin  
   The 31st ACM International Conference on Architecture Support for Programming Languages and Operating Systems (**ASPLOS**), 2026.  
