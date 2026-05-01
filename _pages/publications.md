@@ -14,7 +14,7 @@ The names of the students in my lab are <ins>underlined</ins>.
   The 53rd International Symposium on Computer Architecture (**ISCA**), 2026.  
   to appear  
 
-  - **[ISCA 2026]** **<font color="#0081ff">FEnc2: Unifying Data Packing for Efficient Private Inference via Convolution and Architecture-Aware Fragment Encoding</font>**  
+- **[ISCA 2026]** **<font color="#0081ff">FEnc2: Unifying Data Packing for Efficient Private Inference via Convolution and Architecture-Aware Fragment Encoding</font>**  
   Ran Ran, Zhaoting Gong, Nuo Xu, **Yuanchao Xu**, Fan Yao, Wujie Wen  
   The 53rd International Symposium on Computer Architecture (**ISCA**), 2026.  
   to appear
