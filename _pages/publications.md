@@ -9,6 +9,11 @@ Conference
 ======
 The names of the students in my lab are <ins>underlined</ins>.
 
+- **[ISCA 2026]** **<font color="#0081ff">Coarse-Grained Duplication First, Fine-Grained Deduplication Later: Duplication-Centric Multi-GPU Memory Management</font>**  
+  <ins>Xiangyue Huang</ins>, Yanan Guo, **Yuanchao Xu**  
+  The 53rd International Symposium on Computer Architecture (**ISCA**), 2026.  
+  to appear
+
 - **[ISCA 2026]** **<font color="#0081ff">LIBRA: A High-Accuracy, Cost-Aware, and Coordinated Multi-GPU Page Prefetcher</font>**  
   <ins>Xiangyue Huang</ins>, Yanan Guo, **Yuanchao Xu**  
   The 53rd International Symposium on Computer Architecture (**ISCA**), 2026.  
