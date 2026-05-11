@@ -16,7 +16,7 @@ author_profile: true
 - <a href="https://yux20000304.github.io/" style="color:#0081ff; text-decoration:none;"><strong>Yuxin Yang</strong></a> *(PhD, 2025 Fall– )*, Glen Langdon Fellow  
   MS: HUST · BS: HUST · Topic: CXL security  
 
-- <a href="https://crescentweiss.github.io/jerryyu7.github.io/" style="color:#0081ff; text-decoration:none;"><strong>Zihao Yu</strong></a> *(PhD, 2026– )*  
+- <a href="https://crescentweiss.github.io/jerryyu7.github.io/" style="color:#0081ff; text-decoration:none;"><strong>Zihao Yu</strong></a> *(PhD, 2026 Summer– )*  
   MS: UCAS · BS: USTC · Topic: TBD  
 
 - **Rithik Sharma** *(PhD, 2022– )*, Co-advisee, Primary advisor: Tyler Sorensen
