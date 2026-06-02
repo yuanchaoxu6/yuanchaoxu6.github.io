@@ -44,7 +44,7 @@ Our research about system-on-chip security has been accepted by [<font color="#0
 
 <br>
 
-Recent Publications [<font color="#0081ff">(full list)</font>](https://yuanchaoxu6.github.io/publications/)
+Recent Selected Publications [<font color="#0081ff">(full list)</font>](https://yuanchaoxu6.github.io/publications/)
 ======
 The names of the students in my lab are <ins>underlined</ins>.
 
