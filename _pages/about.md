@@ -31,9 +31,12 @@ News
   * **LIBRA**: multi-GPU page prefetching.
   * **FEnc2**: efficient private inference.
 * Honored to receive the prestigious **NSF CAREER Award**! Grateful to the **NSF** for their support!
-* One paper is accepted by [<font color="#0081ff">ASPLOS 2026</font>](https://www.asplos-conference.org/asplos2026/). Thanks to all collaborators!
-* One paper is accepted by [<font color="#0081ff">ASPLOS 2026</font>](https://www.asplos-conference.org/asplos2026/) with shepherding. Congratulations to Gangqi, and thanks to all collaborators!
+* Two papers are accepted by [<font color="#0081ff">ASPLOS 2026</font>](https://www.asplos-conference.org/asplos2026/). Congratulations to Gangqi, and thanks to all collaborators!
+  * **Fanmem**: failure-atomic transactions for CXL memory.
+  * **PIPM**: page migration for multi-host CXL memory.
 * Two papers are accepted by [<font color="#0081ff">MICRO 2025</font>](https://microarch.org/micro58/). Congratulations to Chuanhan, Qizhong, and Xiangyue, and thanks to all collaborators!
+  * **AIORE**: efficient security support for CXL memory.
+  * **GPU Cache Eviction Hints**: security and performance implications.
 * Our research about ML inference on serverless computing is accepted by [<font color="#0081ff">HPDC 2025</font>](https://hpdc.sci.utah.edu/2025/).
 * Our research about ML inference on serverless computing is accepted by [<font color="#0081ff">SIGMETRICS 2025</font>](https://www.sigmetrics.org/sigmetrics2025/).
 * Our research about disaggregated-memory key-value stores is accepted by [<font color="#0081ff">VLDB 2025</font>](https://vldb.org/2025/).
@@ -46,6 +49,7 @@ News
 * Serving as the program committee for [<font color="#0081ff">ASPLOS 2025</font>](https://www.asplos-conference.org/asplos-2025-call-for-papers/).
 * Our research about trusted execution environments is accepted by [<font color="#0081ff">HPCA 2024</font>](https://hpca-conf.org/2024/).
 * Serving as the Registration Chair for [<font color="#0081ff">ISCA 2023</font>](https://iscaconf.org/isca2023/). Please consider attending!
+
 
 
 </div>
