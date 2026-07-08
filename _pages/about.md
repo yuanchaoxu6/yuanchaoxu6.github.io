@@ -25,44 +25,28 @@ News
 * Three papers are accepted by [<font color="#0081ff">MICRO 2026</font>](https://www.microarch.org/micro59/). Congratulations to Yuxin and Gangqi, and thanks to all collaborators!
   * **Decoupled-DSM**: CXL disaggregated memory security.
   * **HYDRA**: CXL tiered-memory caching.
-  * **ShareMMU**: secure address translation for SoCs.
-
+  * **ShareMMU**: secure address translation sharing for accelerators.
 * Three papers are accepted by [<font color="#0081ff">ISCA 2026</font>](https://iscaconf.org/isca2026/). Congratulations to Xiangyue, and thanks to all collaborators!
   * **CDFD**: NVLink-based multi-GPU memory management.
   * **LIBRA**: multi-GPU page prefetching.
   * **FEnc2**: efficient private inference.
-
 * Honored to receive the prestigious **NSF CAREER Award**! Grateful to the **NSF** for their support!
-
 * One paper is accepted by [<font color="#0081ff">ASPLOS 2026</font>](https://www.asplos-conference.org/asplos2026/). Thanks to all collaborators!
-
 * One paper is accepted by [<font color="#0081ff">ASPLOS 2026</font>](https://www.asplos-conference.org/asplos2026/) with shepherding. Congratulations to Gangqi, and thanks to all collaborators!
-
 * Two papers are accepted by [<font color="#0081ff">MICRO 2025</font>](https://microarch.org/micro58/). Congratulations to Chuanhan, Qizhong, and Xiangyue, and thanks to all collaborators!
-
 * Our research about ML inference on serverless computing is accepted by [<font color="#0081ff">HPDC 2025</font>](https://hpdc.sci.utah.edu/2025/).
-
 * Our research about ML inference on serverless computing is accepted by [<font color="#0081ff">SIGMETRICS 2025</font>](https://www.sigmetrics.org/sigmetrics2025/).
-
 * Our research about disaggregated-memory key-value stores is accepted by [<font color="#0081ff">VLDB 2025</font>](https://vldb.org/2025/).
-
 * Our research about system-on-chip security is accepted by [<font color="#0081ff">DATE 2025</font>](https://www.date-conference.com/).
-
 * Serving as the program committee for [<font color="#0081ff">ISCA 2025</font>](https://iscaconf.org/isca2025/).
-
 * Our research about ML inference on serverless computing is accepted by [<font color="#0081ff">HPDC 2024</font>](https://www.hpdc.org/2024/).
-
 * Our research about system-on-chip security has been awarded by NSF. Thank you for your support, NSF!
-
 * Serving as the program committee for [<font color="#0081ff">MICRO 2024</font>](https://microarch.org/micro57/).
-
 * Received the 2024 [<font color="#0081ff">Outstanding Dissertation Award</font>](https://www.csc.ncsu.edu/academics/graduate/graduate_awards.php) from NCSU for my Ph.D. thesis on "Data-Centric Architecture Support for Security".
-
 * Serving as the program committee for [<font color="#0081ff">ASPLOS 2025</font>](https://www.asplos-conference.org/asplos-2025-call-for-papers/).
-
 * Our research about trusted execution environments is accepted by [<font color="#0081ff">HPCA 2024</font>](https://hpca-conf.org/2024/).
-
 * Serving as the Registration Chair for [<font color="#0081ff">ISCA 2023</font>](https://iscaconf.org/isca2023/). Please consider attending!
+
 
 </div>
 
