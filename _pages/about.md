@@ -34,7 +34,7 @@ News
 * Two papers are accepted by [<font color="#0081ff">ASPLOS 2026</font>](https://www.asplos-conference.org/asplos2026/). Congratulations to Gangqi, and thanks to all collaborators!
   * **PIPM**: page migration for multi-host CXL memory.
   * **Fanmem**: failure-atomic transactions for CXL memory.
-* Two papers are accepted by [<font color="#0081ff">MICRO 2025</font>](https://microarch.org/micro58/). Congratulations to Chuanhan, Qizhong, and Xiangyue, and thanks to all collaborators!
+* Two papers are accepted by [<font color="#0081ff">MICRO 2025</font>](https://microarch.org/micro58/). Congratulations to Chuanhan, Qizhong, Xiangyue, and thanks to all collaborators!
   * **AIORE**: efficient security support for CXL memory.
   * **GPU Cache Eviction Hints**: security and performance implications.
 * Our research about ML inference on serverless computing is accepted by [<font color="#0081ff">HPDC 2025</font>](https://hpdc.sci.utah.edu/2025/).
