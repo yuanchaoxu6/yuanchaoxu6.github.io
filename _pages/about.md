@@ -25,7 +25,7 @@ News
 * Three papers are accepted by [<font color="#0081ff">MICRO 2026</font>](https://www.microarch.org/micro59/). Congratulations to Yuxin and Gangqi, and thanks to all collaborators!
   * **Decoupled-DSM**: CXL disaggregated memory security.
   * **HYDRA**: CXL tiered-memory caching.
-  * **ShareMMU**: secure address translation sharing for accelerators.
+  * **ShareMMU**: secure address translation for SoCs.
 
 * Three papers are accepted by [<font color="#0081ff">ISCA 2026</font>](https://iscaconf.org/isca2026/). Congratulations to Xiangyue, and thanks to all collaborators!
   * **CDFD**: NVLink-based multi-GPU memory management.
