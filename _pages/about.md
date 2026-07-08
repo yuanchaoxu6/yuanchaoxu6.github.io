@@ -15,7 +15,7 @@ My research interests are in computer architecture, security, and ML systems and
 
 **I am always looking for self-motivated Ph.D. students interested in these areas. Feel free to contact me at yxu314@ucsc.edu if you are interested in working with me!**
 
-<!-- 这是一个单行注释 [<font color="#0081ff">CV</font>](http://yuanchaoxu6.github.io/files/CV_Yuanchao_Xu.pdf) -->
+<!-- [<font color="#0081ff">CV</font>](http://yuanchaoxu6.github.io/files/CV_Yuanchao_Xu.pdf) -->
 
 News
 =====
