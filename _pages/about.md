@@ -15,7 +15,7 @@ My research interests are in computer architecture, security, and ML systems and
 
 **I am always looking for self-motivated Ph.D. students interested in these areas. Feel free to contact me at yxu314@ucsc.edu if you are interested in working with me!**
 
-[<font color="#0081ff">CV</font>](http://yuanchaoxu6.github.io/files/CV_Yuanchao_Xu.pdf)
+<!-- 这是一个单行注释 [<font color="#0081ff">CV</font>](http://yuanchaoxu6.github.io/files/CV_Yuanchao_Xu.pdf) -->
 
 News
 =====
@@ -32,8 +32,8 @@ News
   * **FEnc2**: efficient private inference.
 * Honored to receive the prestigious **NSF CAREER Award**! Grateful to the **NSF** for their support!
 * Two papers are accepted by [<font color="#0081ff">ASPLOS 2026</font>](https://www.asplos-conference.org/asplos2026/). Congratulations to Gangqi, and thanks to all collaborators!
-  * **Fanmem**: failure-atomic transactions for CXL memory.
   * **PIPM**: page migration for multi-host CXL memory.
+  * **Fanmem**: failure-atomic transactions for CXL memory.
 * Two papers are accepted by [<font color="#0081ff">MICRO 2025</font>](https://microarch.org/micro58/). Congratulations to Chuanhan, Qizhong, and Xiangyue, and thanks to all collaborators!
   * **AIORE**: efficient security support for CXL memory.
   * **GPU Cache Eviction Hints**: security and performance implications.
