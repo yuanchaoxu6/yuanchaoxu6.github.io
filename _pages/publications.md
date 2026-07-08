@@ -9,6 +9,21 @@ Conference
 ======
 The names of the students in my lab are <ins>underlined</ins>.
 
+- **[MICRO 2026]** **<font color="#0081ff">Decoupled-DSM: A Scalable Secure Trusted Execution Environment for Multi-Host CXL Disaggregated Shared Memory</font>**  
+  <ins>Yuxin Yang</ins>, **Yuanchao Xu**  
+  The 59th IEEE/ACM International Symposium on Microarchitecture (**MICRO**), 2026.  
+  to appear
+
+- **[MICRO 2026]** **<font color="#0081ff">HYDRA: Hybrid DRAM Caching for Dynamic Complementary Multi-to-One Page Mapping in CXL Tiered Memory</font>**  
+  <ins>Gangqi Huang</ins>, Heiner Litz, **Yuanchao Xu**  
+  The 59th IEEE/ACM International Symposium on Microarchitecture (**MICRO**), 2026.  
+  to appear
+
+- **[MICRO 2026]** **<font color="#0081ff">ShareMMU: Supporting Secure Address Translation Sharing among Untrusted Accelerators</font>**  
+  Faiz Alam, Mohamed Tarek Ibn Ziad, **Yuanchao Xu**, Abdulrahman Mahmoud, Aamer Jaleel, Greg Byrd  
+  The 59th IEEE/ACM International Symposium on Microarchitecture (**MICRO**), 2026.  
+  to appear
+
 - **[ISCA 2026]** **<font color="#0081ff">Coarse-Grained Duplication First, Fine-Grained Deduplication Later: Duplication-Centric Multi-GPU Memory Management</font>**  
   <ins>Xiangyue Huang</ins>, Yanan Guo, **Yuanchao Xu**  
   The 53rd International Symposium on Computer Architecture (**ISCA**), 2026.  
