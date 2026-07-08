@@ -117,10 +117,3 @@ The names of the students in my lab are <ins>underlined</ins>.
   Xinning Hui, **Yuanchao Xu**, and Xipeng Shen  
   The 2025 ACM on Measurement and Analysis of Computing Systems (**SIGMETRICS**), 2025. Acceptance rate: 18.18%  
   [<font color="#0081ff">[Paper]</font>](https://dl.acm.org/doi/10.1145/3711699)
-
-- **[VLDB 2025]** **<font color="#0081ff">Outback: Fast and Communication-efficient Index for Key-Value Store on Disaggregated Memory</font>**  
-  Yi Liu, Minghao Xie, Shouqian Shi, **Yuanchao Xu**, Heiner Litz, Chen Qian  
-  The 51st International Conference on Very Large Data Bases (**VLDB**), 2025.  
-  [<font color="#0081ff">[Paper]</font>](https://dl.acm.org/doi/10.14778/3705829.3705849)
-
-
