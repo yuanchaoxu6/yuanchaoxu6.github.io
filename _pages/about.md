@@ -20,7 +20,7 @@ My research interests are in computer architecture, security, and ML systems and
 News
 =====
 
-<div markdown="1" style="width: 100%; height: 300px; overflow-y: scroll; margin: 0; padding: 0;">
+<div markdown="1" style="width: 100%; height: 300px; overflow-y: scroll; margin: 0; padding: 0; line-height: 1.2;">
 
 * Three papers are accepted by [<font color="#0081ff">MICRO 2026</font>](https://www.microarch.org/micro59/). Congratulations to Yuxin and Gangqi, and thanks to all collaborators!
   * **Decoupled-DSM**: CXL disaggregated memory security.
