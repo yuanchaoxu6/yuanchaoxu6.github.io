@@ -23,7 +23,7 @@ News
 <div markdown="1" style="width: 100%; height: 300px; overflow-y: scroll; margin: 0; padding: 0; line-height: 1.1;">
 
 * Three papers are accepted by [<font color="#0081ff">MICRO 2026</font>](https://www.microarch.org/micro59/). Congratulations to Yuxin and Gangqi, and thanks to all collaborators!
-  * **Decoupled-DSM**: CXL disaggregated memory security.
+  * **Decoupled-DSM**: multi-host CXL memory security.
   * **HYDRA**: CXL tiered-memory caching.
   * **ShareMMU**: secure address translation sharing for accelerators.
 * Three papers are accepted by [<font color="#0081ff">ISCA 2026</font>](https://iscaconf.org/isca2026/). Congratulations to Xiangyue, and thanks to all collaborators!
@@ -49,8 +49,6 @@ News
 * Serving as the program committee for [<font color="#0081ff">ASPLOS 2025</font>](https://www.asplos-conference.org/asplos-2025-call-for-papers/).
 * Our research about trusted execution environments is accepted by [<font color="#0081ff">HPCA 2024</font>](https://hpca-conf.org/2024/).
 * Serving as the Registration Chair for [<font color="#0081ff">ISCA 2023</font>](https://iscaconf.org/isca2023/). Please consider attending!
-
-
 
 </div>
 
