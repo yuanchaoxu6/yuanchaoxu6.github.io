@@ -25,7 +25,15 @@ author_profile: true
   MS: UCSC · BS: UCSC  
 
 
+
 ## Alumni
+
+
+- **Bradley Manzo** *(MS, Winter 2026 – Spring 2026)*
+
+- **Shuran Sun** *(MS, Winter 2026 – Spring 2026)*
+
+- **Neil Dangat** *(MS, Winter 2026 – Spring 2026)*
 
 - **Qizhong Wang** *(MS, Fall 2024 – Fall 2025)*
 
