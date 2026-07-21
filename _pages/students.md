@@ -29,18 +29,11 @@ author_profile: true
 ## Alumni
 
 
-- **Bradley Manzo** *(MS, Winter 2026 – Spring 2026)*
-
-- **Shuran Sun** *(MS, Winter 2026 – Spring 2026)*
-
-- **Neil Dangat** *(MS, Winter 2026 – Spring 2026)*
-
-- **Qizhong Wang** *(MS, Fall 2024 – Fall 2025)*
-
-- **Bill Mularski** *(Undergrad, Winter 2025 – Fall 2025)*
-
-- **Larry Balagula** *(Undergrad, Fall 2024 – Winter 2025)*
-
-- **Devavrat Joshi** *(Undergrad, Fall 2023 – Fall 2024)*
-
-- **Jason Mack** *(Undergrad, Fall 2023 – Fall 2024)*
+* **Bradley Manzo** *(MS, Winter 2026 – Spring 2026)*
+* **Shuran Sun** *(MS, Winter 2026 – Spring 2026)*
+* **Neil Dangat** *(MS, Winter 2026 – Spring 2026)*
+* **Qizhong Wang** *(MS, Fall 2024 – Fall 2025)*
+* **Bill Mularski** *(Undergrad, Winter 2025 – Fall 2025)*
+* **Larry Balagula** *(Undergrad, Fall 2024 – Winter 2025)*
+* **Devavrat Joshi** *(Undergrad, Fall 2023 – Fall 2024)*
+* **Jason Mack** *(Undergrad, Fall 2023 – Fall 2024)*
