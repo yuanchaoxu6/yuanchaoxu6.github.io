@@ -71,6 +71,12 @@ The names of the students in my lab are <ins>underlined</ins>.
   The 51st International Conference on Very Large Data Bases (**VLDB**), 2025.
   [<font color="#0081ff">[Paper]</font>](https://dl.acm.org/doi/10.14778/3705829.3705849)
 
+* **[DATE 2025]** **<font color="#0081ff">MC<sup>3</sup>: Memory Contention-Based Covert Channel Communication on Shared DRAM System-on-Chips</font>**
+  Ismet Dagli, James Crea, Soner Seçkiner, **Yuanchao Xu**, Selçuk Köse, Mehmet E. Belviranli
+  The 28th Design, Automation and Test in Europe Conference (**DATE**), 2025.
+  [<font color="#0081ff">[Paper]</font>](https://doi.org/10.23919/DATE64628.2025.10992920)
+
+
 * **[HPDC 2024]** **<font color="#0081ff">ESG: Pipeline-Conscious Efficient Scheduling of DNN Workflows on Serverless Platforms with Shareable GPUs</font>**
   Xinning Hui, **Yuanchao Xu**, Zhishan Guo, Xipeng Shen
   The 33rd ACM International Symposium on High-Performance Parallel and Distributed Computing (**HPDC**), 2024.
