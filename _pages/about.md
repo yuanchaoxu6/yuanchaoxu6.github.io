@@ -21,6 +21,7 @@ News
 
 <div markdown="1" style="width: 100%; height: 400px; overflow-y: scroll; margin: 0; padding: 0; line-height: 1.1;">
 
+* Our research on CXL disaggregated memory is accepted by [<font color="#0081ff">HPCA 2027</font>](https://conf.researchr.org/home/hpca-2027). Thanks to all collaborators!
 * Our research on GPU ML serverless computing is accepted by [<font color="#0081ff">ATC 2026</font>](https://atc.sigops.org/2026/). Thanks to all collaborators!
 * Three papers are accepted by [<font color="#0081ff">MICRO 2026</font>](https://www.microarch.org/micro59/). Congratulations to Yuxin and Gangqi, and thanks to all collaborators!
   * **Decoupled-DSM**: multi-host CXL memory security.
@@ -58,6 +59,11 @@ Recent Selected Publications [<font color="#0081ff">(full list)</font>](https://
 ======
 
 The names of the students in my lab are <ins>underlined</ins>.
+
+- **[HPCA 2027]** **<font color="#0081ff">Axon: Fast Distributed Transactions on Disaggregated Memory via Near-Memory Concurrency Control</font>**  
+  Cheng Chen, Chencheng Ye, **Yuanchao Xu**, Xipeng Shen, Xiaofei Liao, Hai Jin, Wenbin Jiang, Yan Solihin  
+  The 33rd IEEE International Symposium on High-Performance Computer Architecture (**HPCA**), 2027.  
+  to appear
 
 - **[ATC 2026]** **<font color="#0081ff">HybridFaaS: Efficient GPU Serverless via Hybrid Autoscaling</font>**  
   Hao Ming, Chencheng Ye, Xiaofei Liao, Hai Jin, Qiang-Sheng Hua, **Yuanchao Xu**  

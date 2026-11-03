@@ -10,6 +10,11 @@ Conference
 
 The names of the students in my lab are <ins>underlined</ins>.
 
+- **[HPCA 2027]** **<font color="#0081ff">Axon: Fast Distributed Transactions on Disaggregated Memory via Near-Memory Concurrency Control</font>**  
+  Cheng Chen, Chencheng Ye, **Yuanchao Xu**, Xipeng Shen, Xiaofei Liao, Hai Jin, Wenbin Jiang, Yan Solihin  
+  The 33rd IEEE International Symposium on High-Performance Computer Architecture (**HPCA**), 2027.  
+  to appear
+
 - **[ATC 2026]** **<font color="#0081ff">HybridFaaS: Efficient GPU Serverless via Hybrid Autoscaling</font>**  
   Hao Ming, Chencheng Ye, Xiaofei Liao, Hai Jin, Qiang-Sheng Hua, **Yuanchao Xu**  
   The ACM SIGOPS Annual Technical Conference (**ATC**), 2026.  
