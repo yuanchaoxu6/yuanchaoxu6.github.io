@@ -110,8 +110,6 @@ The names of the students in my lab are <ins>underlined</ins>.
   The 31st ACM International Conference on Architecture Support for Programming Languages and Operating Systems (**ASPLOS**), 2026.  
   [<font color="#0081ff">[Paper]</font>](https://dl.acm.org/doi/10.1145/3779212.3790146)
 
-
-
 - **[MICRO 2025]** **<font color="#0081ff">Efficient Security Support for CXL Memory through Adaptive Incremental Offloaded (Re-)Encryption</font>**  
   <ins>Chuanhan Li</ins>, Jishen Zhao, **Yuanchao Xu**  
   The 58th International Symposium on Microarchitecture (**MICRO**), 2025. Acceptance rate: 124/597=20.77%  
