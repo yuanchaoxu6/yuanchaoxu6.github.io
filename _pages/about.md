@@ -100,15 +100,17 @@ The names of the students in my lab are <ins>underlined</ins>.
   The 53rd International Symposium on Computer Architecture (**ISCA**), 2026.  
   [<font color="#0081ff">[Paper]</font>](https://ieeexplore.ieee.org/document/11617697/)
 
+- **[ASPLOS 2026]** **<font color="#0081ff">PIPM: Partial and Incremental Page Migration for Multi-host CXL Disaggregated Shared Memory</font>**  
+  <ins>Gangqi Huang</ins>, Heiner Litz, **Yuanchao Xu**  
+  The 31st ACM International Conference on Architecture Support for Programming Languages and Operating Systems (**ASPLOS**), 2026. Acceptance rate: 89/840=10.60%  
+  [<font color="#0081ff">[Paper]</font>](https://dl.acm.org/doi/10.1145/3779212.3790203)
+
 - **[ASPLOS 2026]** **<font color="#0081ff">CPU-Oblivious Offloading of Failure-Atomic Transactions for Disaggregated Memory</font>**  
   Cheng Chen, Chencheng Ye, **Yuanchao Xu**, Xipeng Shen, Xiaofei Liao, Hai Jin, Wenbin Jiang, Yan Solihin  
   The 31st ACM International Conference on Architecture Support for Programming Languages and Operating Systems (**ASPLOS**), 2026.  
   [<font color="#0081ff">[Paper]</font>](https://dl.acm.org/doi/10.1145/3779212.3790146)
 
-- **[ASPLOS 2026]** **<font color="#0081ff">PIPM: Partial and Incremental Page Migration for Multi-host CXL Disaggregated Shared Memory</font>**  
-  <ins>Gangqi Huang</ins>, Heiner Litz, **Yuanchao Xu**  
-  The 31st ACM International Conference on Architecture Support for Programming Languages and Operating Systems (**ASPLOS**), 2026. Acceptance rate: 89/840=10.60%  
-  [<font color="#0081ff">[Paper]</font>](https://dl.acm.org/doi/10.1145/3779212.3790203)
+
 
 - **[MICRO 2025]** **<font color="#0081ff">Efficient Security Support for CXL Memory through Adaptive Incremental Offloaded (Re-)Encryption</font>**  
   <ins>Chuanhan Li</ins>, Jishen Zhao, **Yuanchao Xu**  
