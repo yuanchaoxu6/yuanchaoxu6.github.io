@@ -19,7 +19,7 @@ My research interests are in computer architecture, security, and ML systems and
 News
 =====
 
-<div markdown="1" style="width: 100%; height: 500px; overflow-y: scroll; margin: 0; padding: 0; line-height: 1.1;">
+<div markdown="1" style="width: 100%; height: 550px; overflow-y: scroll; margin: 0; padding: 0; line-height: 1.1;">
 
 * Our research on CXL disaggregated memory is accepted by [<font color="#0081ff">HPCA 2027</font>](https://conf.researchr.org/home/hpca-2027). Thanks to all collaborators!
 * Our research on GPU ML serverless computing is accepted by [<font color="#0081ff">ATC 2026</font>](https://atc.sigops.org/2026/). Thanks to all collaborators!
